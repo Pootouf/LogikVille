@@ -1,0 +1,20 @@
+<!ELEMENT classic (level)*>
+<!ELEMENT level (numberofhouses,hasanimals,constraints)>
+<!ATTLIST level id CDATA #REQUIRED>
+<!ATTLIST level image CDATA #IMPLIED>
+<!ATTLIST level name CDATA #IMPLIED>
+<!ELEMENT constraints (constraintUnitary*, constraintBinary*)*>
+<!ELEMENT constraintUnitary (id, house, entity)>
+<!ELEMENT constraintBinary (id, entity1, entity2)>
+
+
+<!ELEMENT numberofhouses (#PCDATA)>
+<!ELEMENT hasanimals (#PCDATA)>
+<!ELEMENT house (#PCDATA)>
+<!ELEMENT id (#PCDATA)>
+<!ELEMENT entity (#PCDATA)>
+<!ATTLIST entity type CDATA #REQUIRED>
+<!ELEMENT entity1 (#PCDATA)>
+<!ATTLIST entity1 type CDATA #REQUIRED>
+<!ELEMENT entity2 (#PCDATA)>
+<!ATTLIST entity2 type CDATA #REQUIRED>

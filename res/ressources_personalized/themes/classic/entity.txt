@@ -1,0 +1,11 @@
+PERSONNAGE 1: Macon, res/ressources_personalized/themes/classic/characters/macon.png
+PERSONNAGE 2: Pompier, res/ressources_personalized/themes/classic/characters/pompier.png
+PERSONNAGE 3: Plongeur, res/ressources_personalized/themes/classic/characters/plongeur.png
+PERSONNAGE 4: Cuisinier, res/ressources_personalized/themes/classic/characters/cuisinier.png
+PERSONNAGE 5: Pilote, res/ressources_personalized/themes/classic/characters/pilote.png
+
+ANIMAL 1: Chat, res/ressources_personalized/themes/classic/animals/chat.png
+ANIMAL 2: Tortue, res/ressources_personalized/themes/classic/animals/tortue.png
+ANIMAL 3: Oiseau, res/ressources_personalized/themes/classic/animals/oiseau.png
+ANIMAL 4: Chien, res/ressources_personalized/themes/classic/animals/chien.png
+ANIMAL 5: Lapin, res/ressources_personalized/themes/classic/animals/lapin.png

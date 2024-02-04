@@ -1,0 +1,2688 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE classic SYSTEM "save.dtd" >
+<classic>
+	<level id="1">
+	 <numberofhouses>3</numberofhouses>
+	 <hasanimals>false</hasanimals>
+	 <constraints>
+	  <constraintUnitary> 
+	   <id>1</id>
+	   <house>3</house>
+	   <entity type="C">3</entity>
+	  </constraintUnitary>
+	  <constraintUnitary> 
+	   <id>1</id>
+	   <house>1</house>
+	   <entity type="C">1</entity>
+	  </constraintUnitary>
+	 </constraints>
+	</level>
+	<level id="2">
+	 <numberofhouses>3</numberofhouses>
+	 <hasanimals>false</hasanimals>
+	 <constraints>
+	  <constraintUnitary> 
+	   <id>1</id>
+	   <house>1</house>
+	   <entity type="C">3</entity>
+	  </constraintUnitary>
+	  <constraintUnitary> 
+	   <id>2</id>
+	   <house>2</house>
+	   <entity type="C">2</entity>
+	  </constraintUnitary>
+	 </constraints>
+	</level>
+	<level id="3">
+	 <numberofhouses>3</numberofhouses>
+	 <hasanimals>false</hasanimals>
+	 <constraints>
+	  <constraintUnitary> 
+	   <id>2</id>
+	   <house>2</house>
+	   <entity type="C">3</entity>
+	  </constraintUnitary>
+	  <constraintUnitary> 
+	   <id>2</id>
+	   <house>2</house>
+	   <entity type="C">1</entity>
+	  </constraintUnitary>
+	  <constraintUnitary> 
+	   <id>2</id>
+	   <house>3</house>
+	   <entity type="C">3</entity>
+	  </constraintUnitary>
+	 </constraints>
+	</level>
+	<level id="4">
+	 <numberofhouses>3</numberofhouses>
+	 <hasanimals>false</hasanimals>
+	 <constraints>
+	  <constraintUnitary> 
+	   <id>2</id>
+	   <house>1</house>
+	   <entity type="C">3</entity>
+	  </constraintUnitary>
+	  <constraintUnitary> 
+	   <id>2</id>
+	   <house>2</house>
+	   <entity type="C">2</entity>
+	  </constraintUnitary>
+	  <constraintBinary> 
+	   <id>3</id>
+	   <entity1 type="C">2</entity1>
+	   <entity2 type="C">1</entity2>
+	  </constraintBinary>
+	 </constraints>
+	</level>
+	<level id="5">
+	 <numberofhouses>3</numberofhouses>
+	 <hasanimals>false</hasanimals>
+	 <constraints>
+	  <constraintUnitary> 
+	   <id>1</id>
+	   <house>1</house>
+	   <entity type="C">2</entity>
+	  </constraintUnitary>
+	  <constraintBinary> 
+	   <id>3</id>
+	   <entity1 type="C">3</entity1>
+	   <entity2 type="C">2</entity2>
+	  </constraintBinary>
+	 </constraints>
+	</level>
+	<level id="6">
+	 <numberofhouses>3</numberofhouses>
+	 <hasanimals>false</hasanimals>
+	 <constraints>
+	  <constraintUnitary> 
+	   <id>2</id>
+	   <house>3</house>
+	   <entity type="C">1</entity>
+	  </constraintUnitary>
+	  <constraintBinary> 
+	   <id>3</id>
+	   <entity1 type="C">3</entity1>
+	   <entity2 type="C">2</entity2>
+	  </constraintBinary>
+	  <constraintBinary> 
+	   <id>3</id>
+	   <entity1 type="C">3</entity1>
+	   <entity2 type="C">1</entity2>
+	  </constraintBinary>
+	 </constraints>
+	</level>
+	<level id="7">
+	 <numberofhouses>3</numberofhouses>
+	 <hasanimals>false</hasanimals>
+	 <constraints>
+	  <constraintUnitary> 
+	   <id>1</id>
+	   <house>3</house>
+	   <entity type="C">2</entity>
+	  </constraintUnitary>
+	  <constraintBinary> 
+	   <id>4</id>
+	   <entity1 type="C">2</entity1>
+	   <entity2 type="C">3</entity2>
+	  </constraintBinary>
+	 </constraints>
+	</level>
+	<level id="8">
+	 <numberofhouses>3</numberofhouses>
+	 <hasanimals>false</hasanimals>
+	 <constraints>
+	  <constraintUnitary> 
+	   <id>2</id>
+	   <house>1</house>
+	   <entity type="C">3</entity>
+	  </constraintUnitary>
+	  <constraintBinary> 
+	   <id>4</id>
+	   <entity1 type="C">2</entity1>
+	   <entity2 type="C">3</entity2>
+	  </constraintBinary>
+	 </constraints>
+	</level>
+	<level id="9">
+	 <numberofhouses>3</numberofhouses>
+	 <hasanimals>false</hasanimals>
+	 <constraints>
+	  <constraintBinary> 
+	   <id>3</id>
+	   <entity1 type="C">2</entity1>
+	   <entity2 type="C">1</entity2>
+	  </constraintBinary>
+	  <constraintBinary> 
+	   <id>3</id>
+	   <entity1 type="C">1</entity1>
+	   <entity2 type="C">3</entity2>
+	  </constraintBinary>
+	  <constraintBinary> 
+	   <id>5</id>
+	   <entity1 type="C">3</entity1>
+	   <entity2 type="C">2</entity2>
+	  </constraintBinary>
+	 </constraints>
+	</level>
+	<level id="10">
+	 <numberofhouses>3</numberofhouses>
+	 <hasanimals>false</hasanimals>
+	 <constraints>
+	  <constraintUnitary> 
+	   <id>2</id>
+	   <house>1</house>
+	   <entity type="C">3</entity>
+	  </constraintUnitary>
+	  <constraintUnitary> 
+	   <id>2</id>
+	   <house>2</house>
+	   <entity type="C">3</entity>
+	  </constraintUnitary>
+	  <constraintBinary> 
+	   <id>5</id>
+	   <entity1 type="C">2</entity1>
+	   <entity2 type="C">1</entity2>
+	  </constraintBinary>
+	 </constraints>
+	</level>
+	<level id="11">
+	 <numberofhouses>3</numberofhouses>
+	 <hasanimals>false</hasanimals>
+	 <constraints>
+	  <constraintUnitary> 
+	   <id>1</id>
+	   <house>1</house>
+	   <entity type="C">2</entity>
+	  </constraintUnitary>
+	  <constraintBinary> 
+	   <id>5</id>
+	   <entity1 type="C">3</entity1>
+	   <entity2 type="C">1</entity2>
+	  </constraintBinary>
+	 </constraints>
+	</level>
+	<level id="12">
+	 <numberofhouses>3</numberofhouses>
+	 <hasanimals>false</hasanimals>
+	 <constraints>
+	  <constraintBinary> 
+	   <id>5</id>
+	   <entity1 type="C">1</entity1>
+	   <entity2 type="C">3</entity2>
+	  </constraintBinary>
+	  <constraintBinary> 
+	   <id>5</id>
+	   <entity1 type="C">3</entity1>
+	   <entity2 type="C">2</entity2>
+	  </constraintBinary>
+	 </constraints>
+	</level>
+	<level id="13">
+	 <numberofhouses>3</numberofhouses>
+	 <hasanimals>false</hasanimals>
+	 <constraints>
+	  <constraintUnitary> 
+	   <id>2</id>
+	   <house>3</house>
+	   <entity type="C">2</entity>
+	  </constraintUnitary>
+	  <constraintBinary> 
+	   <id>5</id>
+	   <entity1 type="C">1</entity1>
+	   <entity2 type="C">2</entity2>
+	  </constraintBinary>
+	 </constraints>
+	</level>
+	<level id="14">
+	 <numberofhouses>3</numberofhouses>
+	 <hasanimals>false</hasanimals>
+	 <constraints>
+	  <constraintBinary> 
+	   <id>4</id>
+	   <entity1 type="C">3</entity1>
+	   <entity2 type="C">2</entity2>
+	  </constraintBinary>
+	  <constraintBinary> 
+	   <id>5</id>
+	   <entity1 type="C">2</entity1>
+	   <entity2 type="C">3</entity2>
+	  </constraintBinary>
+	 </constraints>
+	</level>
+	<level id="15">
+	 <numberofhouses>3</numberofhouses>
+	 <hasanimals>false</hasanimals>
+	 <constraints>
+	  <constraintBinary> 
+	   <id>5</id>
+	   <entity1 type="C">1</entity1>
+	   <entity2 type="C">2</entity2>
+	  </constraintBinary>
+	  <constraintBinary> 
+	   <id>5</id>
+	   <entity1 type="C">1</entity1>
+	   <entity2 type="C">3</entity2>
+	  </constraintBinary>
+	  <constraintBinary> 
+	   <id>3</id>
+	   <entity1 type="C">1</entity1>
+	   <entity2 type="C">2</entity2>
+	  </constraintBinary>
+	 </constraints>
+	</level>
+	<level id="16">
+	 <numberofhouses>3</numberofhouses>
+	 <hasanimals>false</hasanimals>
+	 <constraints>
+	 <constraintUnitary> 
+	   <id>2</id>
+	   <house>1</house>
+	   <entity type="C">3</entity>
+	  </constraintUnitary>
+	  <constraintBinary> 
+	   <id>5</id>
+	   <entity1 type="C">1</entity1>
+	   <entity2 type="C">2</entity2>
+	  </constraintBinary>
+	  <constraintBinary> 
+	   <id>3</id>
+	   <entity1 type="C">1</entity1>
+	   <entity2 type="C">2</entity2>
+	  </constraintBinary>
+	 </constraints>
+	</level>
+	<level id="17">
+	 <numberofhouses>3</numberofhouses>
+	 <hasanimals>false</hasanimals>
+	 <constraints>
+	 <constraintUnitary> 
+	   <id>2</id>
+	   <house>2</house>
+	   <entity type="C">1</entity>
+	  </constraintUnitary>
+	  <constraintBinary> 
+	   <id>5</id>
+	   <entity1 type="C">3</entity1>
+	   <entity2 type="C">2</entity2>
+	  </constraintBinary>
+	  <constraintBinary> 
+	   <id>5</id>
+	   <entity1 type="C">1</entity1>
+	   <entity2 type="C">2</entity2>
+	  </constraintBinary>
+	 </constraints>
+	</level>
+	<level id="18">
+	 <numberofhouses>3</numberofhouses>
+	 <hasanimals>true</hasanimals>
+	 <constraints>
+	 <constraintUnitary> 
+	   <id>1</id>
+	   <house>2</house>
+	   <entity type="A">2</entity>
+	  </constraintUnitary>
+	  <constraintUnitary> 
+	   <id>1</id>
+	   <house>3</house>
+	   <entity type="C">1</entity>
+	  </constraintUnitary>
+	   <constraintUnitary> 
+	   <id>1</id>
+	   <house>3</house>
+	   <entity type="A">1</entity>
+	  </constraintUnitary>
+	  <constraintUnitary> 
+	   <id>1</id>
+	   <house>1</house>
+	   <entity type="C">3</entity>
+	  </constraintUnitary>
+	 </constraints>
+	</level>
+	<level id="19">
+	 <numberofhouses>3</numberofhouses>
+	 <hasanimals>true</hasanimals>
+	 <constraints>
+	 <constraintUnitary> 
+	   <id>1</id>
+	   <house>1</house>
+	   <entity type="C">1</entity>
+	  </constraintUnitary>
+	  <constraintUnitary> 
+	   <id>1</id>
+	   <house>3</house>
+	   <entity type="A">3</entity>
+	  </constraintUnitary>
+	   <constraintBinary> 
+	   <id>6</id>
+	   <entity1 type="C">3</entity1>
+	   <entity2 type="A">2</entity2>
+	  </constraintBinary>
+	 </constraints>
+	</level>
+	<level id="20">
+	 <numberofhouses>3</numberofhouses>
+	 <hasanimals>true</hasanimals>
+	 <constraints>
+	 <constraintUnitary> 
+	   <id>2</id>
+	   <house>1</house>
+	   <entity type="C">2</entity>
+	  </constraintUnitary>
+	  <constraintUnitary> 
+	   <id>1</id>
+	   <house>1</house>
+	   <entity type="A">2</entity>
+	  </constraintUnitary>
+	   <constraintUnitary> 
+	   <id>2</id>
+	   <house>3</house>
+	   <entity type="A">3</entity>
+	  </constraintUnitary>
+	   <constraintBinary> 
+	   <id>6</id>
+	   <entity1 type="C">3</entity1>
+	   <entity2 type="A">3</entity2>
+	  </constraintBinary>
+	 </constraints>
+	</level>
+	<level id="21">
+	 <numberofhouses>3</numberofhouses>
+	 <hasanimals>true</hasanimals>
+	 <constraints>
+	 <constraintUnitary> 
+	   <id>1</id>
+	   <house>3</house>
+	   <entity type="C">1</entity>
+	  </constraintUnitary>
+	  <constraintUnitary> 
+	   <id>1</id>
+	   <house>1</house>
+	   <entity type="C">2</entity>
+	  </constraintUnitary>
+	   <constraintUnitary> 
+	   <id>1</id>
+	   <house>3</house>
+	   <entity type="A">2</entity>
+	  </constraintUnitary>
+	   <constraintBinary> 
+	   <id>3</id>
+	   <entity1 type="A">3</entity1>
+	   <entity2 type="A">2</entity2>
+	  </constraintBinary>
+	 </constraints>
+	</level>
+	<level id="22">
+	 <numberofhouses>3</numberofhouses>
+	 <hasanimals>true</hasanimals>
+	 <constraints>
+	 <constraintUnitary> 
+	   <id>1</id>
+	   <house>1</house>
+	   <entity type="A">3</entity>
+	  </constraintUnitary>
+	  <constraintUnitary> 
+	   <id>1</id>
+	   <house>3</house>
+	   <entity type="C">3</entity>
+	  </constraintUnitary>
+	   <constraintBinary> 
+	   <id>6</id>
+	   <entity1 type="C">3</entity1>
+	   <entity2 type="A">2</entity2>
+	  </constraintBinary>
+	  <constraintBinary> 
+	   <id>3</id>
+	   <entity1 type="C">3</entity1>
+	   <entity2 type="C">1</entity2>
+	  </constraintBinary>
+	 </constraints>
+	</level>
+	<level id="23">
+	 <numberofhouses>3</numberofhouses>
+	 <hasanimals>true</hasanimals>
+	 <constraints>
+	 <constraintUnitary> 
+	   <id>1</id>
+	   <house>3</house>
+	   <entity type="C">1</entity>
+	  </constraintUnitary>
+	   <constraintBinary> 
+	   <id>6</id>
+	   <entity1 type="C">3</entity1>
+	   <entity2 type="A">1</entity2>
+	  </constraintBinary>
+	  <constraintBinary> 
+	   <id>3</id>
+	   <entity1 type="A">2</entity1>
+	   <entity2 type="C">1</entity2>
+	  </constraintBinary>
+	 </constraints>
+	</level>
+	<level id="24">
+	 <numberofhouses>3</numberofhouses>
+	 <hasanimals>true</hasanimals>
+	 <constraints>
+	 <constraintUnitary> 
+	   <id>1</id>
+	   <house>1</house>
+	   <entity type="A">3</entity>
+	  </constraintUnitary>
+	  <constraintUnitary> 
+	   <id>1</id>
+	   <house>3</house>
+	   <entity type="C">3</entity>
+	  </constraintUnitary>
+	   <constraintBinary> 
+	   <id>3</id>
+	   <entity1 type="C">3</entity1>
+	   <entity2 type="C">1</entity2>
+	  </constraintBinary>
+	  <constraintBinary> 
+	   <id>3</id>
+	   <entity1 type="C">1</entity1>
+	   <entity2 type="A">2</entity2>
+	  </constraintBinary>
+	 </constraints>
+	</level>
+	<level id="25">
+	 <numberofhouses>3</numberofhouses>
+	 <hasanimals>true</hasanimals>
+	 <constraints>
+	 <constraintUnitary> 
+	   <id>1</id>
+	   <house>1</house>
+	   <entity type="C">2</entity>
+	  </constraintUnitary>
+	   <constraintBinary> 
+	   <id>4</id>
+	   <entity1 type="A">3</entity1>
+	   <entity2 type="C">3</entity2>
+	  </constraintBinary>
+	  <constraintBinary> 
+	   <id>6</id>
+	   <entity1 type="C">3</entity1>
+	   <entity2 type="A">2</entity2>
+	  </constraintBinary>
+	 </constraints>
+	</level>
+	<level id="26">
+	 <numberofhouses>3</numberofhouses>
+	 <hasanimals>true</hasanimals>
+	 <constraints>
+	 <constraintUnitary> 
+	   <id>1</id>
+	   <house>2</house>
+	   <entity type="C">3</entity>
+	  </constraintUnitary>
+	  <constraintUnitary> 
+	   <id>2</id>
+	   <house>1</house>
+	   <entity type="C">2</entity>
+	  </constraintUnitary>
+	   <constraintBinary> 
+	   <id>4</id>
+	   <entity1 type="A">3</entity1>
+	   <entity2 type="A">1</entity2>
+	  </constraintBinary>
+	  <constraintBinary> 
+	   <id>7</id>
+	   <entity1 type="C">1</entity1>
+	   <entity2 type="A">3</entity2>
+	  </constraintBinary>
+	 </constraints>
+	</level>
+	<level id="27">
+	 <numberofhouses>3</numberofhouses>
+	 <hasanimals>true</hasanimals>
+	 <constraints>
+	 <constraintUnitary> 
+	   <id>2</id>
+	   <house>3</house>
+	   <entity type="C">1</entity>
+	  </constraintUnitary>
+	  <constraintUnitary> 
+	   <id>1</id>
+	   <house>3</house>
+	   <entity type="A">2</entity>
+	  </constraintUnitary>
+	   <constraintBinary> 
+	   <id>4</id>
+	   <entity1 type="A">3</entity1>
+	   <entity2 type="A">2</entity2>
+	  </constraintBinary>
+	  <constraintBinary> 
+	   <id>3</id>
+	   <entity1 type="A">2</entity1>
+	   <entity2 type="C">3</entity2>
+	  </constraintBinary>
+	 </constraints>
+	</level>
+	<level id="28">
+	 <numberofhouses>3</numberofhouses>
+	 <hasanimals>true</hasanimals>
+	 <constraints>
+	 <constraintUnitary> 
+	   <id>1</id>
+	   <house>3</house>
+	   <entity type="A">2</entity>
+	  </constraintUnitary>
+	   <constraintBinary> 
+	   <id>4</id>
+	   <entity1 type="C">2</entity1>
+	   <entity2 type="A">3</entity2>
+	  </constraintBinary>
+	  <constraintBinary> 
+	   <id>7</id>
+	   <entity1 type="C">2</entity1>
+	   <entity2 type="A">3</entity2>
+	  </constraintBinary>
+	  <constraintBinary> 
+	   <id>3</id>
+	   <entity1 type="C">3</entity1>
+	   <entity2 type="C">2</entity2>
+	  </constraintBinary>
+	 </constraints>
+	</level>
+	<level id="29">
+	 <numberofhouses>3</numberofhouses>
+	 <hasanimals>true</hasanimals>
+	 <constraints>
+	 <constraintUnitary> 
+	   <id>2</id>
+	   <house>1</house>
+	   <entity type="C">1</entity>
+	  </constraintUnitary>
+	   <constraintBinary> 
+	   <id>6</id>
+	   <entity1 type="C">1</entity1>
+	   <entity2 type="A">3</entity2>
+	  </constraintBinary>
+	  <constraintBinary> 
+	   <id>5</id>
+	   <entity1 type="C">1</entity1>
+	   <entity2 type="C">2</entity2>
+	  </constraintBinary>
+	  <constraintBinary> 
+	   <id>6</id>
+	   <entity1 type="C">3</entity1>
+	   <entity2 type="A">1</entity2>
+	  </constraintBinary>
+	 </constraints>
+	</level>
+	<level id="30">
+	 <numberofhouses>3</numberofhouses>
+	 <hasanimals>true</hasanimals>
+	 <constraints>
+	   <constraintBinary> 
+	   <id>5</id>
+	   <entity1 type="C">3</entity1>
+	   <entity2 type="C">1</entity2>
+	  </constraintBinary>
+	  <constraintBinary> 
+	   <id>6</id>
+	   <entity1 type="C">3</entity1>
+	   <entity2 type="A">1</entity2>
+	  </constraintBinary>
+	  <constraintBinary> 
+	   <id>4</id>
+	   <entity1 type="A">1</entity1>
+	   <entity2 type="A">3</entity2>
+	  </constraintBinary>
+	  <constraintBinary> 
+	   <id>4</id>
+	   <entity1 type="A">1</entity1>
+	   <entity2 type="C">1</entity2>
+	  </constraintBinary>
+	 </constraints>
+	</level>
+	<level id="31">
+	 <numberofhouses>3</numberofhouses>
+	 <hasanimals>true</hasanimals>
+	 <constraints>
+	   <constraintUnitary> 
+	   <id>1</id>
+	   <house>3</house>
+	   <entity type="A">3</entity>
+	  </constraintUnitary>
+	  <constraintBinary> 
+	   <id>5</id>
+	   <entity1 type="C">3</entity1>
+	   <entity2 type="A">1</entity2>
+	  </constraintBinary>
+	  <constraintBinary> 
+	   <id>6</id>
+	   <entity1 type="C">2</entity1>
+	   <entity2 type="A">1</entity2>
+	  </constraintBinary>
+	 </constraints>
+	</level>
+	<level id="32">
+	 <numberofhouses>3</numberofhouses>
+	 <hasanimals>true</hasanimals>
+	 <constraints>
+	   <constraintUnitary> 
+	   <id>1</id>
+	   <house>2</house>
+	   <entity type="C">1</entity>
+	  </constraintUnitary>
+	  <constraintBinary> 
+	   <id>5</id>
+	   <entity1 type="C">2</entity1>
+	   <entity2 type="A">3</entity2>
+	  </constraintBinary>
+	  <constraintBinary> 
+	   <id>5</id>
+	   <entity1 type="A">3</entity1>
+	   <entity2 type="A">2</entity2>
+	  </constraintBinary>
+	 </constraints>
+	</level>
+	<level id="33">
+	 <numberofhouses>3</numberofhouses>
+	 <hasanimals>true</hasanimals>
+	 <constraints>
+	  <constraintBinary> 
+	   <id>5</id>
+	   <entity1 type="C">1</entity1>
+	   <entity2 type="C">3</entity2>
+	  </constraintBinary>
+	  <constraintBinary> 
+	   <id>3</id>
+	   <entity1 type="C">2</entity1>
+	   <entity2 type="A">2</entity2>
+	  </constraintBinary>
+	  <constraintBinary> 
+	   <id>5</id>
+	   <entity1 type="A">1</entity1>
+	   <entity2 type="C">1</entity2>
+	  </constraintBinary>
+	 </constraints>
+	</level>
+	<level id="34">
+	 <numberofhouses>3</numberofhouses>
+	 <hasanimals>true</hasanimals>
+	 <constraints>
+	  <constraintBinary> 
+	   <id>5</id>
+	   <entity1 type="A">1</entity1>
+	   <entity2 type="A">3</entity2>
+	  </constraintBinary>
+	  <constraintBinary> 
+	   <id>5</id>
+	   <entity1 type="C">2</entity1>
+	   <entity2 type="A">2</entity2>
+	  </constraintBinary>
+	  <constraintBinary> 
+	   <id>5</id>
+	   <entity1 type="A">2</entity1>
+	   <entity2 type="C">1</entity2>
+	  </constraintBinary>
+	 </constraints>
+	</level>
+	<level id="35">
+	 <numberofhouses>3</numberofhouses>
+	 <hasanimals>true</hasanimals>
+	 <constraints>
+	  <constraintUnitary>
+	   <id>1</id>
+	   <house>2</house>
+	   <entity type="A">2</entity>
+	  </constraintUnitary>
+	  <constraintBinary> 
+	   <id>3</id>
+	   <entity1 type="C">1</entity1>
+	   <entity2 type="A">1</entity2>
+	  </constraintBinary>
+	  <constraintBinary> 
+	   <id>5</id>
+	   <entity1 type="C">1</entity1>
+	   <entity2 type="C">3</entity2>
+	  </constraintBinary>
+	  <constraintBinary> 
+	   <id>6</id>
+	   <entity1 type="C">2</entity1>
+	   <entity2 type="A">1</entity2>
+	  </constraintBinary>
+	 </constraints>
+	</level>
+	<level id="36">
+	 <numberofhouses>3</numberofhouses>
+	 <hasanimals>true</hasanimals>
+	 <constraints>
+	  <constraintUnitary>
+	   <id>1</id>
+	   <house>2</house>
+	   <entity type="C">2</entity>
+	  </constraintUnitary>
+	   <constraintUnitary>
+	   <id>1</id>
+	   <house>1</house>
+	   <entity type="A">2</entity>
+	  </constraintUnitary>
+	  <constraintBinary> 
+	   <id>5</id>
+	   <entity1 type="A">3</entity1>
+	   <entity2 type="A">1</entity2>
+	  </constraintBinary>
+	  <constraintBinary> 
+	   <id>5</id>
+	   <entity1 type="C">3</entity1>
+	   <entity2 type="C">1</entity2>
+	  </constraintBinary>
+	 </constraints>
+	</level>
+	<level id="37">
+	 <numberofhouses>3</numberofhouses>
+	 <hasanimals>true</hasanimals>
+	 <constraints>
+	  <constraintUnitary>
+	   <id>1</id>
+	   <house>2</house>
+	   <entity type="C">2</entity>
+	  </constraintUnitary>
+	  <constraintBinary> 
+	   <id>7</id>
+	   <entity1 type="C">2</entity1>
+	   <entity2 type="A">2</entity2>
+	  </constraintBinary>
+	  <constraintBinary> 
+	   <id>5</id>
+	   <entity1 type="C">2</entity1>
+	   <entity2 type="C">3</entity2>
+	  </constraintBinary>
+	  <constraintBinary> 
+	   <id>6</id>
+	   <entity1 type="C">3</entity1>
+	   <entity2 type="A">1</entity2>
+	  </constraintBinary>
+	 </constraints>
+	</level>
+	<level id="38">
+	 <numberofhouses>3</numberofhouses>
+	 <hasanimals>true</hasanimals>
+	 <constraints>
+	  <constraintUnitary>
+	   <id>1</id>
+	   <house>2</house>
+	   <entity type="C">1</entity>
+	  </constraintUnitary>
+	  <constraintBinary> 
+	   <id>3</id>
+	   <entity1 type="A">1</entity1>
+	   <entity2 type="A">2</entity2>
+	  </constraintBinary>
+	  <constraintBinary> 
+	   <id>5</id>
+	   <entity1 type="A">3</entity1>
+	   <entity2 type="C">2</entity2>
+	  </constraintBinary>
+	  <constraintBinary> 
+	   <id>5</id>
+	   <entity1 type="A">1</entity1>
+	   <entity2 type="A">2</entity2>
+	  </constraintBinary>
+	 </constraints>
+	</level>
+	<level id="39">
+	 <numberofhouses>4</numberofhouses>
+	 <hasanimals>false</hasanimals>
+	 <constraints>
+	  <constraintUnitary>
+	   <id>1</id>
+	   <house>4</house>
+	   <entity type="C">4</entity>
+	  </constraintUnitary>
+	   <constraintUnitary>
+	   <id>1</id>
+	   <house>2</house>
+	   <entity type="C">2</entity>
+	  </constraintUnitary>
+	   <constraintUnitary>
+	   <id>2</id>
+	   <house>1</house>
+	   <entity type="C">3</entity>
+	  </constraintUnitary>
+	 </constraints>
+	</level>
+	<level id="40">
+	 <numberofhouses>4</numberofhouses>
+	 <hasanimals>false</hasanimals>
+	 <constraints>
+	  <constraintUnitary>
+	   <id>1</id>
+	   <house>2</house>
+	   <entity type="C">1</entity>
+	  </constraintUnitary>
+	   <constraintUnitary>
+	   <id>1</id>
+	   <house>3</house>
+	   <entity type="C">4</entity>
+	  </constraintUnitary>
+	   <constraintBinary>
+	   <id>3</id>
+	   <entity1 type="C">1</entity1>
+	   <entity2 type="C">3</entity2>
+	  </constraintBinary>
+	 </constraints>
+	</level>
+	<level id="41">
+	 <numberofhouses>4</numberofhouses>
+	 <hasanimals>false</hasanimals>
+	 <constraints>
+	  <constraintUnitary>
+	   <id>1</id>
+	   <house>3</house>
+	   <entity type="C">2</entity>
+	  </constraintUnitary>
+	   <constraintUnitary>
+	   <id>1</id>
+	   <house>2</house>
+	   <entity type="C">1</entity>
+	  </constraintUnitary>
+	   <constraintBinary>
+	   <id>4</id>
+	   <entity1 type="C">1</entity1>
+	   <entity2 type="C">3</entity2>
+	  </constraintBinary>
+	 </constraints>
+	</level>
+	<level id="42">
+	 <numberofhouses>4</numberofhouses>
+	 <hasanimals>false</hasanimals>
+	 <constraints>
+	  <constraintUnitary>
+	   <id>1</id>
+	   <house>4</house>
+	   <entity type="C">1</entity>
+	  </constraintUnitary>
+	   <constraintUnitary>
+	   <id>1</id>
+	   <house>1</house>
+	   <entity type="C">2</entity>
+	  </constraintUnitary>
+	   <constraintBinary>
+	   <id>5</id>
+	   <entity1 type="C">3</entity1>
+	   <entity2 type="C">4</entity2>
+	  </constraintBinary>
+	 </constraints>
+	</level>
+	<level id="43">
+	 <numberofhouses>4</numberofhouses>
+	 <hasanimals>false</hasanimals>
+	 <constraints>
+	  <constraintUnitary>
+	   <id>1</id>
+	   <house>3</house>
+	   <entity type="C">4</entity>
+	  </constraintUnitary>
+	   <constraintBinary>
+	   <id>5</id>
+	   <entity1 type="C">1</entity1>
+	   <entity2 type="C">2</entity2>
+	  </constraintBinary>
+	  <constraintBinary>
+	   <id>3</id>
+	   <entity1 type="C">2</entity1>
+	   <entity2 type="C">1</entity2>
+	  </constraintBinary>
+	 </constraints>
+	</level>
+	<level id="44">
+	 <numberofhouses>4</numberofhouses>
+	 <hasanimals>false</hasanimals>
+	 <constraints>
+	  <constraintUnitary>
+	   <id>2</id>
+	   <house>4</house>
+	   <entity type="C">4</entity>
+	  </constraintUnitary>
+	   <constraintBinary>
+	   <id>4</id>
+	   <entity1 type="C">3</entity1>
+	   <entity2 type="C">4</entity2>
+	  </constraintBinary>
+	  <constraintBinary>
+	   <id>5</id>
+	   <entity1 type="C">1</entity1>
+	   <entity2 type="C">4</entity2>
+	  </constraintBinary>
+	   <constraintBinary>
+	   <id>5</id>
+	   <entity1 type="C">1</entity1>
+	   <entity2 type="C">3</entity2>
+	  </constraintBinary>
+	 </constraints>
+	</level>
+	<level id="45">
+	 <numberofhouses>4</numberofhouses>
+	 <hasanimals>false</hasanimals>
+	 <constraints>
+	   <constraintBinary>
+	   <id>5</id>
+	   <entity1 type="C">1</entity1>
+	   <entity2 type="C">4</entity2>
+	  </constraintBinary>
+	  <constraintBinary>
+	   <id>4</id>
+	   <entity1 type="C">2</entity1>
+	   <entity2 type="C">1</entity2>
+	  </constraintBinary>
+	   <constraintBinary>
+	   <id>5</id>
+	   <entity1 type="C">1</entity1>
+	   <entity2 type="C">2</entity2>
+	  </constraintBinary>
+	  <constraintBinary>
+	   <id>4</id>
+	   <entity1 type="C">2</entity1>
+	   <entity2 type="C">4</entity2>
+	  </constraintBinary>
+	 </constraints>
+	</level>
+	<level id="46">
+	 <numberofhouses>4</numberofhouses>
+	 <hasanimals>true</hasanimals>
+	 <constraints>
+	   <constraintUnitary>
+	    <id>1</id>
+	    <house>2</house>
+	    <entity type="C">4</entity>
+	   </constraintUnitary>
+	   <constraintUnitary>
+	    <id>1</id>
+	    <house>3</house>
+	    <entity type="C">1</entity>
+	   </constraintUnitary>
+	   <constraintBinary>
+	   <id>6</id>
+	   <entity1 type="C">2</entity1>
+	   <entity2 type="A">4</entity2>
+	  </constraintBinary>
+	  <constraintBinary>
+	   <id>4</id>
+	   <entity1 type="A">3</entity1>
+	   <entity2 type="A">2</entity2>
+	  </constraintBinary>
+	   <constraintBinary>
+	   <id>6</id>
+	   <entity1 type="C">4</entity1>
+	   <entity2 type="A">3</entity2>
+	  </constraintBinary>
+	 </constraints>
+	</level>
+	<level id="47">
+	 <numberofhouses>4</numberofhouses>
+	 <hasanimals>true</hasanimals>
+	 <constraints>
+	   <constraintUnitary>
+	    <id>1</id>
+	    <house>4</house>
+	    <entity type="C">3</entity>
+	   </constraintUnitary>
+	   <constraintUnitary>
+	    <id>1</id>
+	    <house>1</house>
+	    <entity type="A">2</entity>
+	   </constraintUnitary>
+	    <constraintUnitary>
+	    <id>1</id>
+	    <house>4</house>
+	    <entity type="A">4</entity>
+	   </constraintUnitary>
+	   <constraintBinary>
+	   <id>6</id>
+	   <entity1 type="C">2</entity1>
+	   <entity2 type="A">1</entity2>
+	  </constraintBinary>
+	   <constraintBinary>
+	   <id>5</id>
+	   <entity1 type="A">1</entity1>
+	   <entity2 type="C">4</entity2>
+	  </constraintBinary>
+	 </constraints>
+	</level>
+	<level id="48">
+	 <numberofhouses>4</numberofhouses>
+	 <hasanimals>true</hasanimals>
+	 <constraints>
+	   <constraintUnitary>
+	    <id>1</id>
+	    <house>1</house>
+	    <entity type="A">3</entity>
+	   </constraintUnitary>
+	   <constraintUnitary>
+	    <id>1</id>
+	    <house>4</house>
+	    <entity type="C">3</entity>
+	   </constraintUnitary>
+	   <constraintBinary>
+	   <id>3</id>
+	   <entity1 type="A">2</entity1>
+	   <entity2 type="C">2</entity2>
+	  </constraintBinary>
+	   <constraintBinary>
+	   <id>5</id>
+	   <entity1 type="A">1</entity1>
+	   <entity2 type="C">1</entity2>
+	  </constraintBinary>
+	 </constraints>
+	</level>
+	<level id="49">
+	 <numberofhouses>5</numberofhouses>
+	 <hasanimals>true</hasanimals>
+	 <constraints>
+	   <constraintUnitary>
+	    <id>1</id>
+	    <house>4</house>
+	    <entity type="A">5</entity>
+	   </constraintUnitary>
+	   <constraintUnitary>
+	    <id>1</id>
+	    <house>1</house>
+	    <entity type="C">1</entity>
+	   </constraintUnitary>
+	   <constraintUnitary>
+	    <id>1</id>
+	    <house>3</house>
+	    <entity type="A">1</entity>
+	   </constraintUnitary>
+	   <constraintBinary>
+	   <id>3</id>
+	   <entity1 type="A">5</entity1>
+	   <entity2 type="C">4</entity2>
+	  </constraintBinary>
+	   <constraintBinary>
+	   <id>3</id>
+	   <entity1 type="C">2</entity1>
+	   <entity2 type="A">4</entity2>
+	  </constraintBinary>
+	   <constraintBinary>
+	   <id>6</id>
+	   <entity1 type="C">5</entity1>
+	   <entity2 type="A">4</entity2>
+	  </constraintBinary>
+	  <constraintBinary>
+	   <id>5</id>
+	   <entity1 type="A">1</entity1>
+	   <entity2 type="A">2</entity2>
+	  </constraintBinary>
+	 </constraints>
+	</level>
+	<level id="50">
+	 <numberofhouses>5</numberofhouses>
+	 <hasanimals>true</hasanimals>
+	 <constraints>
+	   <constraintUnitary>
+	    <id>1</id>
+	    <house>5</house>
+	    <entity type="C">3</entity>
+	   </constraintUnitary>
+	   <constraintUnitary>
+	    <id>2</id>
+	    <house>1</house>
+	    <entity type="C">5</entity>
+	   </constraintUnitary>
+	   <constraintUnitary>
+	    <id>1</id>
+	    <house>4</house>
+	    <entity type="A">5</entity>
+	   </constraintUnitary>
+	   <constraintUnitary>
+	    <id>1</id>
+	    <house>2</house>
+	    <entity type="A">1</entity>
+	   </constraintUnitary>
+	   <constraintBinary>
+	   <id>6</id>
+	   <entity1 type="C">3</entity1>
+	   <entity2 type="A">3</entity2>
+	  </constraintBinary>
+	   <constraintBinary>
+	   <id>3</id>
+	   <entity1 type="C">1</entity1>
+	   <entity2 type="A">2</entity2>
+	  </constraintBinary>
+	  <constraintBinary>
+	   <id>3</id>
+	   <entity1 type="C">4</entity1>
+	   <entity2 type="C">1</entity2>
+	  </constraintBinary>
+	  <constraintBinary>
+	   <id>5</id>
+	   <entity1 type="C">5</entity1>
+	   <entity2 type="C">1</entity2>
+	  </constraintBinary>
+	 </constraints>
+	</level>
+	<level id="51">
+	 <numberofhouses>5</numberofhouses>
+	 <hasanimals>true</hasanimals>
+	 <constraints>
+	   <constraintUnitary>
+	    <id>1</id>
+	    <house>2</house>
+	    <entity type="A">2</entity>
+	   </constraintUnitary>
+	   <constraintUnitary>
+	    <id>1</id>
+	    <house>1</house>
+	    <entity type="C">3</entity>
+	   </constraintUnitary>
+	   <constraintUnitary>
+	    <id>2</id>
+	    <house>4</house>
+	    <entity type="A">1</entity>
+	   </constraintUnitary>
+	   <constraintUnitary>
+	    <id>1</id>
+	    <house>3</house>
+	    <entity type="C">2</entity>
+	   </constraintUnitary>
+	   <constraintBinary>
+	   <id>6</id>
+	   <entity1 type="C">2</entity1>
+	   <entity2 type="A">5</entity2>
+	  </constraintBinary>
+	   <constraintBinary>
+	   <id>6</id>
+	   <entity1 type="C">4</entity1>
+	   <entity2 type="A">1</entity2>
+	  </constraintBinary>
+	  <constraintBinary>
+	   <id>5</id>
+	   <entity1 type="A">4</entity1>
+	   <entity2 type="A">3</entity2>
+	  </constraintBinary>
+	  <constraintBinary>
+	   <id>4</id>
+	   <entity1 type="C">1</entity1>
+	   <entity2 type="C">3</entity2>
+	  </constraintBinary>
+	 </constraints>
+	</level>
+	<level id="52">
+	 <numberofhouses>5</numberofhouses>
+	 <hasanimals>true</hasanimals>
+	 <constraints>
+	   <constraintUnitary>
+	    <id>1</id>
+	    <house>3</house>
+	    <entity type="A">5</entity>
+	   </constraintUnitary>
+	   <constraintUnitary>
+	    <id>1</id>
+	    <house>2</house>
+	    <entity type="A">4</entity>
+	   </constraintUnitary>
+	   <constraintUnitary>
+	    <id>1</id>
+	    <house>2</house>
+	    <entity type="C">2</entity>
+	   </constraintUnitary>
+	   <constraintBinary>
+	   <id>4</id>
+	   <entity1 type="A">5</entity1>
+	   <entity2 type="A">2</entity2>
+	  </constraintBinary>
+	   <constraintBinary>
+	   <id>5</id>
+	   <entity1 type="C">5</entity1>
+	   <entity2 type="C">1</entity2>
+	  </constraintBinary>
+	  <constraintBinary>
+	   <id>3</id>
+	   <entity1 type="A">1</entity1>
+	   <entity2 type="A">4</entity2>
+	  </constraintBinary>
+	   <constraintBinary>
+	   <id>3</id>
+	   <entity1 type="C">3</entity1>
+	   <entity2 type="C">5</entity2>
+	  </constraintBinary>
+	  <constraintBinary>
+	   <id>4</id>
+	   <entity1 type="C">5</entity1>
+	   <entity2 type="A">2</entity2>
+	  </constraintBinary>
+	 </constraints>
+	</level>
+	<level id="53">
+	 <numberofhouses>5</numberofhouses>
+	 <hasanimals>true</hasanimals>
+	 <constraints>
+	   <constraintUnitary>
+	    <id>2</id>
+	    <house>3</house>
+	    <entity type="C">2</entity>
+	   </constraintUnitary>
+	   <constraintUnitary>
+	    <id>1</id>
+	    <house>1</house>
+	    <entity type="A">5</entity>
+	   </constraintUnitary>
+	   <constraintUnitary>
+	    <id>1</id>
+	    <house>3</house>
+	    <entity type="A">3</entity>
+	   </constraintUnitary>
+	   <constraintBinary>
+	   <id>4</id>
+	   <entity1 type="C">4</entity1>
+	   <entity2 type="C">2</entity2>
+	  </constraintBinary>
+	   <constraintBinary>
+	   <id>6</id>
+	   <entity1 type="C">5</entity1>
+	   <entity2 type="A">1</entity2>
+	  </constraintBinary>
+	  <constraintBinary>
+	   <id>4</id>
+	   <entity1 type="C">5</entity1>
+	   <entity2 type="A">4</entity2>
+	  </constraintBinary>
+	   <constraintBinary>
+	   <id>4</id>
+	   <entity1 type="A">3</entity1>
+	   <entity2 type="C">5</entity2>
+	  </constraintBinary>
+	  <constraintBinary>
+	   <id>5</id>
+	   <entity1 type="A">3</entity1>
+	   <entity2 type="C">3</entity2>
+	  </constraintBinary>
+	 </constraints>
+	</level>
+	<level id="54">
+	 <numberofhouses>5</numberofhouses>
+	 <hasanimals>true</hasanimals>
+	 <constraints>
+	   <constraintUnitary>
+	    <id>1</id>
+	    <house>5</house>
+	    <entity type="C">3</entity>
+	   </constraintUnitary>
+	   <constraintUnitary>
+	    <id>1</id>
+	    <house>1</house>
+	    <entity type="A">1</entity>
+	   </constraintUnitary>
+	   <constraintUnitary>
+	    <id>2</id>
+	    <house>3</house>
+	    <entity type="A">2</entity>
+	   </constraintUnitary>
+	   <constraintBinary>
+	   <id>6</id>
+	   <entity1 type="C">4</entity1>
+	   <entity2 type="A">1</entity2>
+	  </constraintBinary>
+	   <constraintBinary>
+	   <id>6</id>
+	   <entity1 type="C">2</entity1>
+	   <entity2 type="A">2</entity2>
+	  </constraintBinary>
+	  <constraintBinary>
+	   <id>3</id>
+	   <entity1 type="A">1</entity1>
+	   <entity2 type="A">4</entity2>
+	  </constraintBinary>
+	   <constraintBinary>
+	   <id>6</id>
+	   <entity1 type="C">3</entity1>
+	   <entity2 type="A">3</entity2>
+	  </constraintBinary>
+	  <constraintBinary>
+	   <id>5</id>
+	   <entity1 type="C">1</entity1>
+	   <entity2 type="C">5</entity2>
+	  </constraintBinary>
+	 </constraints>
+	</level>
+	<level id="55">
+	 <numberofhouses>5</numberofhouses>
+	 <hasanimals>true</hasanimals>
+	 <constraints>
+	   <constraintUnitary>
+	    <id>1</id>
+	    <house>4</house>
+	    <entity type="A">2</entity>
+	   </constraintUnitary>
+	   <constraintUnitary>
+	    <id>1</id>
+	    <house>1</house>
+	    <entity type="C">3</entity>
+	   </constraintUnitary>
+	   <constraintBinary>
+	   <id>4</id>
+	   <entity1 type="A">1</entity1>
+	   <entity2 type="A">2</entity2>
+	  </constraintBinary>
+	   <constraintBinary>
+	   <id>5</id>
+	   <entity1 type="A">5</entity1>
+	   <entity2 type="C">4</entity2>
+	  </constraintBinary>
+	  <constraintBinary>
+	   <id>6</id>
+	   <entity1 type="C">5</entity1>
+	   <entity2 type="A">3</entity2>
+	  </constraintBinary>
+	   <constraintBinary>
+	   <id>3</id>
+	   <entity1 type="A">1</entity1>
+	   <entity2 type="C">4</entity2>
+	  </constraintBinary>
+	  <constraintBinary>
+	   <id>6</id>
+	   <entity1 type="C">2</entity1>
+	   <entity2 type="A">1</entity2>
+	  </constraintBinary>
+	 </constraints>
+	</level>
+	<level id="56">
+	 <numberofhouses>5</numberofhouses>
+	 <hasanimals>true</hasanimals>
+	 <constraints>
+	   <constraintUnitary>
+	    <id>1</id>
+	    <house>2</house>
+	    <entity type="C">4</entity>
+	   </constraintUnitary>
+	   <constraintUnitary>
+	    <id>1</id>
+	    <house>4</house>
+	    <entity type="C">2</entity>
+	   </constraintUnitary>
+	  <constraintBinary>
+	   <id>3</id>
+	   <entity1 type="A">2</entity1>
+	   <entity2 type="A">1</entity2>
+	  </constraintBinary>
+	   <constraintBinary>
+	   <id>6</id>
+	   <entity1 type="C">3</entity1>
+	   <entity2 type="A">3</entity2>
+	  </constraintBinary>
+	   <constraintBinary>
+	   <id>3</id>
+	   <entity1 type="A">2</entity1>
+	   <entity2 type="C">3</entity2>
+	  </constraintBinary>
+	  <constraintBinary>
+	   <id>6</id>
+	   <entity1 type="C">5</entity1>
+	   <entity2 type="A">5</entity2>
+	  </constraintBinary>
+	   <constraintBinary>
+	   <id>5</id>
+	   <entity1 type="A">3</entity1>
+	   <entity2 type="A">1</entity2>
+	  </constraintBinary>
+	  <constraintBinary>
+	   <id>4</id>
+	   <entity1 type="C">1</entity1>
+	   <entity2 type="A">4</entity2>
+	  </constraintBinary>
+	 </constraints>
+	</level>
+	<level id="57">
+	 <numberofhouses>5</numberofhouses>
+	 <hasanimals>true</hasanimals>
+	 <constraints>
+	   <constraintUnitary>
+	    <id>1</id>
+	    <house>2</house>
+	    <entity type="C">3</entity>
+	   </constraintUnitary>
+	   <constraintBinary>
+	   <id>4</id>
+	   <entity1 type="A">1</entity1>
+	   <entity2 type="C">1</entity2>
+	  </constraintBinary>
+	  <constraintBinary>
+	   <id>4</id>
+	   <entity1 type="C">2</entity1>
+	   <entity2 type="A">5</entity2>
+	  </constraintBinary>
+	   <constraintBinary>
+	   <id>5</id>
+	   <entity1 type="A">2</entity1>
+	   <entity2 type="C">2</entity2>
+	  </constraintBinary>
+	   <constraintBinary>
+	   <id>3</id>
+	   <entity1 type="A">5</entity1>
+	   <entity2 type="C">5</entity2>
+	  </constraintBinary>
+	  <constraintBinary>
+	   <id>6</id>
+	   <entity1 type="C">5</entity1>
+	   <entity2 type="A">3</entity2>
+	  </constraintBinary>
+	   <constraintBinary>
+	   <id>3</id>
+	   <entity1 type="C">4</entity1>
+	   <entity2 type="A">1</entity2>
+	  </constraintBinary>
+	  <constraintBinary>
+	   <id>6</id>
+	   <entity1 type="C">1</entity1>
+	   <entity2 type="A">5</entity2>
+	  </constraintBinary>
+	 </constraints>
+	</level>
+	<level id="58">
+	 <numberofhouses>5</numberofhouses>
+	 <hasanimals>true</hasanimals>
+	 <constraints>
+	   <constraintUnitary>
+	    <id>1</id>
+	    <house>4</house>
+	    <entity type="C">4</entity>
+	   </constraintUnitary>
+	   <constraintUnitary>
+	    <id>1</id>
+	    <house>1</house>
+	    <entity type="C">3</entity>
+	   </constraintUnitary>
+	   <constraintUnitary>
+	    <id>1</id>
+	    <house>1</house>
+	    <entity type="A">4</entity>
+	   </constraintUnitary>
+	   <constraintBinary>
+	   <id>5</id>
+	   <entity1 type="A">2</entity1>
+	   <entity2 type="C">1</entity2>
+	  </constraintBinary>
+	  <constraintBinary>
+	   <id>6</id>
+	   <entity1 type="C">2</entity1>
+	   <entity2 type="A">3</entity2>
+	  </constraintBinary>
+	   <constraintBinary>
+	   <id>4</id>
+	   <entity1 type="A">1</entity1>
+	   <entity2 type="A">2</entity2>
+	  </constraintBinary>
+	   <constraintBinary>
+	   <id>5</id>
+	   <entity1 type="C">1</entity1>
+	   <entity2 type="C">4</entity2>
+	  </constraintBinary>
+	 </constraints>
+	</level>
+	<level id="59">
+	 <numberofhouses>5</numberofhouses>
+	 <hasanimals>true</hasanimals>
+	 <constraints>
+	   <constraintUnitary>
+	    <id>1</id>
+	    <house>5</house>
+	    <entity type="A">5</entity>
+	   </constraintUnitary>
+	   <constraintUnitary>
+	    <id>2</id>
+	    <house>1</house>
+	    <entity type="A">4</entity>
+	   </constraintUnitary>
+	   <constraintBinary>
+	   <id>3</id>
+	   <entity1 type="C">2</entity1>
+	   <entity2 type="C">5</entity2>
+	  </constraintBinary>
+	  <constraintBinary>
+	   <id>5</id>
+	   <entity1 type="C">2</entity1>
+	   <entity2 type="A">3</entity2>
+	  </constraintBinary>
+	   <constraintBinary>
+	   <id>3</id>
+	   <entity1 type="C">4</entity1>
+	   <entity2 type="C">3</entity2>
+	  </constraintBinary>
+	   <constraintBinary>
+	   <id>5</id>
+	   <entity1 type="C">3</entity1>
+	   <entity2 type="C">4</entity2>
+	  </constraintBinary>
+	  <constraintBinary>
+	   <id>6</id>
+	   <entity1 type="C">3</entity1>
+	   <entity2 type="A">1</entity2>
+	  </constraintBinary>
+	   <constraintBinary>
+	   <id>3</id>
+	   <entity1 type="C">2</entity1>
+	   <entity2 type="C">3</entity2>
+	  </constraintBinary>
+	 </constraints>
+	</level>
+	<level id="60">
+	 <numberofhouses>5</numberofhouses>
+	 <hasanimals>true</hasanimals>
+	 <constraints>
+	   <constraintUnitary>
+	    <id>1</id>
+	    <house>5</house>
+	    <entity type="A">2</entity>
+	   </constraintUnitary>
+	   <constraintUnitary>
+	    <id>1</id>
+	    <house>2</house>
+	    <entity type="A">3</entity>
+	   </constraintUnitary>
+	   <constraintUnitary>
+	    <id>1</id>
+	    <house>2</house>
+	    <entity type="C">2</entity>
+	   </constraintUnitary>
+	   <constraintBinary>
+	   <id>3</id>
+	   <entity1 type="A">2</entity1>
+	   <entity2 type="C">4</entity2>
+	  </constraintBinary>
+	  <constraintBinary>
+	   <id>3</id>
+	   <entity1 type="A">5</entity1>
+	   <entity2 type="C">2</entity2>
+	  </constraintBinary>
+	   <constraintBinary>
+	   <id>5</id>
+	   <entity1 type="A">4</entity1>
+	   <entity2 type="A">5</entity2>
+	  </constraintBinary>
+	  <constraintBinary>
+	   <id>5</id>
+	   <entity1 type="C">5</entity1>
+	   <entity2 type="C">3</entity2>
+	  </constraintBinary>
+	  <constraintBinary>
+	   <id>4</id>
+	   <entity1 type="A">3</entity1>
+	   <entity2 type="C">1</entity2>
+	  </constraintBinary>
+	 </constraints>
+	</level>
+	<level id="61">
+	 <numberofhouses>5</numberofhouses>
+	 <hasanimals>true</hasanimals>
+	 <constraints>
+	   <constraintUnitary>
+	    <id>2</id>
+	    <house>2</house>
+	    <entity type="C">5</entity>
+	   </constraintUnitary>
+	   <constraintBinary>
+	   <id>5</id>
+	   <entity1 type="C">5</entity1>
+	   <entity2 type="C">1</entity2>
+	  </constraintBinary>
+	  <constraintBinary>
+	   <id>3</id>
+	   <entity1 type="A">2</entity1>
+	   <entity2 type="A">4</entity2>
+	  </constraintBinary>
+	   <constraintBinary>
+	   <id>5</id>
+	   <entity1 type="C">1</entity1>
+	   <entity2 type="C">4</entity2>
+	  </constraintBinary>
+	   <constraintBinary>
+	   <id>5</id>
+	   <entity1 type="C">4</entity1>
+	   <entity2 type="A">4</entity2>
+	  </constraintBinary>
+	  <constraintBinary>
+	   <id>3</id>
+	   <entity1 type="C">5</entity1>
+	   <entity2 type="A">3</entity2>
+	  </constraintBinary>
+	  <constraintBinary>
+	   <id>3</id>
+	   <entity1 type="A">1</entity1>
+	   <entity2 type="A">2</entity2>
+	  </constraintBinary>
+	   <constraintBinary>
+	   <id>3</id>
+	   <entity1 type="C">5</entity1>
+	   <entity2 type="C">2</entity2>
+	  </constraintBinary>
+	 </constraints>
+	</level>
+	<level id="62">
+	 <numberofhouses>5</numberofhouses>
+	 <hasanimals>true</hasanimals>
+	 <constraints>
+	   <constraintUnitary>
+	    <id>1</id>
+	    <house>3</house>
+	    <entity type="C">2</entity>
+	   </constraintUnitary>
+	   <constraintUnitary>
+	    <id>1</id>
+	    <house>4</house>
+	    <entity type="A">1</entity>
+	   </constraintUnitary>
+	   <constraintBinary>
+	   <id>5</id>
+	   <entity1 type="A">5</entity1>
+	   <entity2 type="A">4</entity2>
+	  </constraintBinary>
+	  <constraintBinary>
+	   <id>6</id>
+	   <entity1 type="C">5</entity1>
+	   <entity2 type="A">3</entity2>
+	  </constraintBinary>
+	   <constraintBinary>
+	   <id>3</id>
+	   <entity1 type="C">1</entity1>
+	   <entity2 type="C">5</entity2>
+	  </constraintBinary>
+	   <constraintBinary>
+	   <id>5</id>
+	   <entity1 type="C">5</entity1>
+	   <entity2 type="C">1</entity2>
+	  </constraintBinary>
+	  <constraintBinary>
+	   <id>3</id>
+	   <entity1 type="C">4</entity1>
+	   <entity2 type="A">5</entity2>
+	  </constraintBinary>
+	 </constraints>
+	</level>
+	<level id="63">
+	 <numberofhouses>5</numberofhouses>
+	 <hasanimals>true</hasanimals>
+	 <constraints>
+	   <constraintUnitary>
+	    <id>1</id>
+	    <house>3</house>
+	    <entity type="C">2</entity>
+	   </constraintUnitary>
+	   <constraintUnitary>
+	    <id>2</id>
+	    <house>3</house>
+	    <entity type="A">3</entity>
+	   </constraintUnitary>
+	   <constraintBinary>
+	   <id>5</id>
+	   <entity1 type="C">1</entity1>
+	   <entity2 type="C">2</entity2>
+	  </constraintBinary>
+	  <constraintBinary>
+	   <id>3</id>
+	   <entity1 type="A">3</entity1>
+	   <entity2 type="C">4</entity2>
+	  </constraintBinary>
+	   <constraintBinary>
+	   <id>5</id>
+	   <entity1 type="C">3</entity1>
+	   <entity2 type="A">2</entity2>
+	  </constraintBinary>
+	   <constraintBinary>
+	   <id>3</id>
+	   <entity1 type="A">1</entity1>
+	   <entity2 type="C">4</entity2>
+	  </constraintBinary>
+	  <constraintBinary>
+	   <id>5</id>
+	   <entity1 type="A">2</entity1>
+	   <entity2 type="A">4</entity2>
+	  </constraintBinary>
+	 </constraints>
+	</level>
+	<level id="64">
+	 <numberofhouses>5</numberofhouses>
+	 <hasanimals>true</hasanimals>
+	 <constraints>
+	   <constraintUnitary>
+	    <id>1</id>
+	    <house>2</house>
+	    <entity type="C">2</entity>
+	   </constraintUnitary>
+	   <constraintUnitary>
+	    <id>1</id>
+	    <house>2</house>
+	    <entity type="A">3</entity>
+	   </constraintUnitary>
+	   <constraintBinary>
+	   <id>5</id>
+	   <entity1 type="A">5</entity1>
+	   <entity2 type="A">1</entity2>
+	  </constraintBinary>
+	  <constraintBinary>
+	   <id>5</id>
+	   <entity1 type="C">3</entity1>
+	   <entity2 type="A">5</entity2>
+	  </constraintBinary>
+	   <constraintBinary>
+	   <id>6</id>
+	   <entity1 type="C">4</entity1>
+	   <entity2 type="A">4</entity2>
+	  </constraintBinary>
+	   <constraintBinary>
+	   <id>5</id>
+	   <entity1 type="C">5</entity1>
+	   <entity2 type="A">4</entity2>
+	  </constraintBinary>
+	  <constraintBinary>
+	   <id>4</id>
+	   <entity1 type="C">4</entity1>
+	   <entity2 type="C">5</entity2>
+	  </constraintBinary>
+	 </constraints>
+	</level>
+	<level id="65">
+	 <numberofhouses>5</numberofhouses>
+	 <hasanimals>true</hasanimals>
+	 <constraints>
+	   <constraintUnitary>
+	    <id>1</id>
+	    <house>3</house>
+	    <entity type="C">1</entity>
+	   </constraintUnitary>
+	   <constraintUnitary>
+	    <id>2</id>
+	    <house>4</house>
+	    <entity type="A">2</entity>
+	   </constraintUnitary>
+	   <constraintUnitary>
+	    <id>1</id>
+	    <house>5</house>
+	    <entity type="C">4</entity>
+	   </constraintUnitary>
+	   <constraintBinary>
+	   <id>5</id>
+	   <entity1 type="A">4</entity1>
+	   <entity2 type="C">2</entity2>
+	  </constraintBinary>
+	  <constraintBinary>
+	   <id>5</id>
+	   <entity1 type="A">3</entity1>
+	   <entity2 type="A">1</entity2>
+	  </constraintBinary>
+	   <constraintBinary>
+	   <id>4</id>
+	   <entity1 type="A">1</entity1>
+	   <entity2 type="C">4</entity2>
+	  </constraintBinary>
+	   <constraintBinary>
+	   <id>6</id>
+	   <entity1 type="C">5</entity1>
+	   <entity2 type="A">1</entity2>
+	  </constraintBinary>
+	 </constraints>
+	</level>
+	<level id="66">
+	 <numberofhouses>5</numberofhouses>
+	 <hasanimals>true</hasanimals>
+	 <constraints>
+	   <constraintUnitary>
+	    <id>1</id>
+	    <house>1</house>
+	    <entity type="A">5</entity>
+	   </constraintUnitary>
+	   <constraintUnitary>
+	    <id>2</id>
+	    <house>5</house>
+	    <entity type="C">4</entity>
+	   </constraintUnitary>
+	   <constraintUnitary>
+	    <id>2</id>
+	    <house>5</house>
+	    <entity type="A">4</entity>
+	   </constraintUnitary>
+	   <constraintUnitary>
+	    <id>1</id>
+	    <house>4</house>
+	    <entity type="C">2</entity>
+	   </constraintUnitary>
+	   <constraintBinary>
+	   <id>5</id>
+	   <entity1 type="C">1</entity1>
+	   <entity2 type="A">4</entity2>
+	  </constraintBinary>
+	  <constraintBinary>
+	   <id>5</id>
+	   <entity1 type="C">5</entity1>
+	   <entity2 type="C">4</entity2>
+	  </constraintBinary>
+	   <constraintBinary>
+	   <id>6</id>
+	   <entity1 type="C">1</entity1>
+	   <entity2 type="A">3</entity2>
+	  </constraintBinary>
+	   <constraintBinary>
+	   <id>3</id>
+	   <entity1 type="A">1</entity1>
+	   <entity2 type="C">4</entity2>
+	  </constraintBinary>
+	 </constraints>
+	</level>
+	<level id="67">
+	 <numberofhouses>5</numberofhouses>
+	 <hasanimals>true</hasanimals>
+	 <constraints>
+	   <constraintUnitary>
+	    <id>2</id>
+	    <house>3</house>
+	    <entity type="C">1</entity>
+	   </constraintUnitary>
+	   <constraintBinary>
+	   <id>5</id>
+	   <entity1 type="C">4</entity1>
+	   <entity2 type="C">2</entity2>
+	  </constraintBinary>
+	  <constraintBinary>
+	   <id>5</id>
+	   <entity1 type="C">2</entity1>
+	   <entity2 type="A">3</entity2>
+	  </constraintBinary>
+	   <constraintBinary>
+	   <id>4</id>
+	   <entity1 type="A">4</entity1>
+	   <entity2 type="C">3</entity2>
+	  </constraintBinary>
+	   <constraintBinary>
+	   <id>5</id>
+	   <entity1 type="A">3</entity1>
+	   <entity2 type="A">1</entity2>
+	  </constraintBinary>
+	   <constraintBinary>
+	   <id>6</id>
+	   <entity1 type="C">5</entity1>
+	   <entity2 type="A">2</entity2>
+	  </constraintBinary>
+	   <constraintBinary>
+	   <id>4</id>
+	   <entity1 type="C">3</entity1>
+	   <entity2 type="C">1</entity2>
+	  </constraintBinary>
+	 </constraints>
+	</level>
+	<level id="68">
+	 <numberofhouses>5</numberofhouses>
+	 <hasanimals>true</hasanimals>
+	 <constraints>
+	   <constraintBinary>
+	    <id>5</id>
+	    <entity1 type="C">3</entity1>
+	    <entity2 type="A">1</entity2>
+	   </constraintBinary>
+	   <constraintBinary>
+	   <id>5</id>
+	   <entity1 type="C">2</entity1>
+	   <entity2 type="C">3</entity2>
+	  </constraintBinary>
+	  <constraintBinary>
+	   <id>5</id>
+	   <entity1 type="A">1</entity1>
+	   <entity2 type="C">5</entity2>
+	  </constraintBinary>
+	   <constraintBinary>
+	   <id>5</id>
+	   <entity1 type="A">4</entity1>
+	   <entity2 type="A">5</entity2>
+	  </constraintBinary>
+	   <constraintBinary>
+	   <id>4</id>
+	   <entity1 type="C">5</entity1>
+	   <entity2 type="A">1</entity2>
+	  </constraintBinary>
+	   <constraintBinary>
+	   <id>5</id>
+	   <entity1 type="C">4</entity1>
+	   <entity2 type="A">2</entity2>
+	  </constraintBinary>
+	   <constraintBinary>
+	   <id>5</id>
+	   <entity1 type="A">3</entity1>
+	   <entity2 type="A">4</entity2>
+	  </constraintBinary>
+	  <constraintBinary>
+	  	<id>3</id>
+	  	<entity1 type="C">1</entity1>
+	  	<entity2 type="A">2</entity2>
+	  </constraintBinary>
+	 </constraints>
+	</level>
+	<level id="69">
+	 <numberofhouses>5</numberofhouses>
+	 <hasanimals>true</hasanimals>
+	 <constraints>
+	   <constraintUnitary>
+	    <id>2</id>
+	    <house>1</house>
+	    <entity type="A">2</entity>
+	   </constraintUnitary>
+	   <constraintUnitary>
+	    <id>1</id>
+	    <house>3</house>
+	    <entity type="A">4</entity>
+	   </constraintUnitary>
+	  <constraintUnitary>
+	    <id>1</id>
+	    <house>1</house>
+	    <entity type="C">5</entity>
+	   </constraintUnitary>
+	  <constraintBinary>
+	   <id>3</id>
+	   <entity1 type="C">2</entity1>
+	   <entity2 type="A">2</entity2>
+	  </constraintBinary>
+	   <constraintBinary>
+	   <id>5</id>
+	   <entity1 type="A">2</entity1>
+	   <entity2 type="A">5</entity2>
+	  </constraintBinary>
+	   <constraintBinary>
+	   <id>4</id>
+	   <entity1 type="A">3</entity1>
+	   <entity2 type="C">1</entity2>
+	  </constraintBinary>
+	   <constraintBinary>
+	   <id>5</id>
+	   <entity1 type="A">5</entity1>
+	   <entity2 type="A">1</entity2>
+	  </constraintBinary>
+	   <constraintBinary>
+	   <id>6</id>
+	   <entity1 type="C">4</entity1>
+	   <entity2 type="A">5</entity2>
+	  </constraintBinary>
+	 </constraints>
+	</level>
+	<level id="70">
+	 <numberofhouses>5</numberofhouses>
+	 <hasanimals>true</hasanimals>
+	 <constraints>
+	   <constraintUnitary>
+	    <id>1</id>
+	    <house>2</house>
+	    <entity type="C">5</entity>
+	   </constraintUnitary>
+	  <constraintBinary>
+	   <id>4</id>
+	   <entity1 type="A">1</entity1>
+	   <entity2 type="A">4</entity2>
+	  </constraintBinary>
+	   <constraintBinary>
+	   <id>3</id>
+	   <entity1 type="A">4</entity1>
+	   <entity2 type="C">1</entity2>
+	  </constraintBinary>
+	   <constraintBinary>
+	   <id>5</id>
+	   <entity1 type="C">3</entity1>
+	   <entity2 type="C">4</entity2>
+	  </constraintBinary>
+	   <constraintBinary>
+	   <id>7</id>
+	   <entity1 type="C">2</entity1>
+	   <entity2 type="A">2</entity2>
+	  </constraintBinary>
+	   <constraintBinary>
+	   <id>3</id>
+	   <entity1 type="C">3</entity1>
+	   <entity2 type="C">2</entity2>
+	  </constraintBinary>
+	  <constraintBinary>
+	   <id>5</id>
+	   <entity1 type="C">2</entity1>
+	   <entity2 type="C">3</entity2>
+	  </constraintBinary>
+	  <constraintBinary>
+	   <id>5</id>
+	   <entity1 type="A">1</entity1>
+	   <entity2 type="A">5</entity2>
+	  </constraintBinary>
+	 </constraints>
+	</level>
+	<level id="71">
+	 <numberofhouses>5</numberofhouses>
+	 <hasanimals>true</hasanimals>
+	 <constraints>
+	   <constraintUnitary>
+	    <id>2</id>
+	    <house>5</house>
+	    <entity type="A">5</entity>
+	   </constraintUnitary>
+	   <constraintUnitary>
+	    <id>1</id>
+	    <house>1</house>
+	    <entity type="A">3</entity>
+	   </constraintUnitary>
+	  <constraintBinary>
+	   <id>5</id>
+	   <entity1 type="C">2</entity1>
+	   <entity2 type="C">3</entity2>
+	  </constraintBinary>
+	   <constraintBinary>
+	   <id>5</id>
+	   <entity1 type="C">5</entity1>
+	   <entity2 type="C">2</entity2>
+	  </constraintBinary>
+	   <constraintBinary>
+	   <id>3</id>
+	   <entity1 type="A">2</entity1>
+	   <entity2 type="C">5</entity2>
+	  </constraintBinary>
+	   <constraintBinary>
+	   <id>5</id>
+	   <entity1 type="C">5</entity1>
+	   <entity2 type="C">4</entity2>
+	  </constraintBinary>
+	   <constraintBinary>
+	   <id>4</id>
+	   <entity1 type="C">4</entity1>
+	   <entity2 type="C">3</entity2>
+	  </constraintBinary>
+	  <constraintBinary>
+	   <id>6</id>
+	   <entity1 type="C">5</entity1>
+	   <entity2 type="A">4</entity2>
+	  </constraintBinary>
+	 </constraints>
+	</level>
+	<level id="72">
+	 <numberofhouses>5</numberofhouses>
+	 <hasanimals>true</hasanimals>
+	 <constraints>
+	   <constraintUnitary>
+	    <id>1</id>
+	    <house>2</house>
+	    <entity type="A">1</entity>
+	   </constraintUnitary>
+	   <constraintUnitary>
+	    <id>1</id>
+	    <house>4</house>
+	    <entity type="A">3</entity>
+	   </constraintUnitary>
+	  <constraintBinary>
+	   <id>6</id>
+	   <entity1 type="C">2</entity1>
+	   <entity2 type="A">4</entity2>
+	  </constraintBinary>
+	   <constraintBinary>
+	   <id>4</id>
+	   <entity1 type="C">1</entity1>
+	   <entity2 type="C">2</entity2>
+	  </constraintBinary>
+	   <constraintBinary>
+	   <id>7</id>
+	   <entity1 type="C">1</entity1>
+	   <entity2 type="A">5</entity2>
+	  </constraintBinary>
+	   <constraintBinary>
+	   <id>5</id>
+	   <entity1 type="A">2</entity1>
+	   <entity2 type="A">4</entity2>
+	  </constraintBinary>
+	   <constraintBinary>
+	   <id>5</id>
+	   <entity1 type="C">4</entity1>
+	   <entity2 type="C">1</entity2>
+	  </constraintBinary>
+	  <constraintBinary>
+	   <id>6</id>
+	   <entity1 type="C">5</entity1>
+	   <entity2 type="A">1</entity2>
+	  </constraintBinary>
+	 </constraints>
+	</level>
+	<level id="73">
+	 <numberofhouses>5</numberofhouses>
+	 <hasanimals>true</hasanimals>
+	 <constraints>
+	   <constraintUnitary>
+	    <id>1</id>
+	    <house>4</house>
+	    <entity type="A">5</entity>
+	   </constraintUnitary>
+	  <constraintBinary>
+	   <id>5</id>
+	   <entity1 type="A">5</entity1>
+	   <entity2 type="C">1</entity2>
+	  </constraintBinary>
+	   <constraintBinary>
+	   <id>5</id>
+	   <entity1 type="A">1</entity1>
+	   <entity2 type="A">4</entity2>
+	  </constraintBinary>
+	   <constraintBinary>
+	   <id>3</id>
+	   <entity1 type="A">1</entity1>
+	   <entity2 type="C">2</entity2>
+	  </constraintBinary>
+	   <constraintBinary>
+	   <id>5</id>
+	   <entity1 type="C">2</entity1>
+	   <entity2 type="A">3</entity2>
+	  </constraintBinary>
+	   <constraintBinary>
+	   <id>4</id>
+	   <entity1 type="C">4</entity1>
+	   <entity2 type="A">2</entity2>
+	  </constraintBinary>
+	  <constraintBinary>
+	   <id>3</id>
+	   <entity1 type="A">5</entity1>
+	   <entity2 type="C">5</entity2>
+	  </constraintBinary>
+	  <constraintBinary>
+	   <id>3</id>
+	   <entity1 type="A">4</entity1>
+	   <entity2 type="C">3</entity2>
+	  </constraintBinary>
+	 </constraints>
+	</level>
+	<level id="74">
+	 <numberofhouses>5</numberofhouses>
+	 <hasanimals>true</hasanimals>
+	 <constraints>
+	   <constraintUnitary>
+	    <id>2</id>
+	    <house>5</house>
+	    <entity type="C">2</entity>
+	   </constraintUnitary>
+	   <constraintUnitary>
+	    <id>2</id>
+	    <house>3</house>
+	    <entity type="A">4</entity>
+	   </constraintUnitary>
+	   <constraintUnitary>
+	    <id>1</id>
+	    <house>4</house>
+	    <entity type="C">4</entity>
+	   </constraintUnitary>
+	  <constraintBinary>
+	   <id>5</id>
+	   <entity1 type="C">1</entity1>
+	   <entity2 type="C">5</entity2>
+	  </constraintBinary>
+	   <constraintBinary>
+	   <id>6</id>
+	   <entity1 type="C">5</entity1>
+	   <entity2 type="A">1</entity2>
+	  </constraintBinary>
+	   <constraintBinary>
+	   <id>4</id>
+	   <entity1 type="C">4</entity1>
+	   <entity2 type="A">1</entity2>
+	  </constraintBinary>
+	   <constraintBinary>
+	   <id>6</id>
+	   <entity1 type="C">3</entity1>
+	   <entity2 type="A">5</entity2>
+	  </constraintBinary>
+	   <constraintBinary>
+	   <id>5</id>
+	   <entity1 type="A">2</entity1>
+	   <entity2 type="C">5</entity2>
+	  </constraintBinary>
+	 </constraints>
+	</level>
+	<level id="75">
+	 <numberofhouses>5</numberofhouses>
+	 <hasanimals>true</hasanimals>
+	 <constraints>
+	   <constraintUnitary>
+	    <id>1</id>
+	    <house>2</house>
+	    <entity type="A">1</entity>
+	   </constraintUnitary>
+	  <constraintBinary>
+	   <id>3</id>
+	   <entity1 type="C">3</entity1>
+	   <entity2 type="A">1</entity2>
+	  </constraintBinary>
+	   <constraintBinary>
+	   <id>6</id>
+	   <entity1 type="C">2</entity1>
+	   <entity2 type="A">4</entity2>
+	  </constraintBinary>
+	   <constraintBinary>
+	   <id>5</id>
+	   <entity1 type="C">2</entity1>
+	   <entity2 type="C">3</entity2>
+	  </constraintBinary>
+	   <constraintBinary>
+	   <id>4</id>
+	   <entity1 type="A">3</entity1>
+	   <entity2 type="A">5</entity2>
+	  </constraintBinary>
+	   <constraintBinary>
+	   <id>3</id>
+	   <entity1 type="C">2</entity1>
+	   <entity2 type="C">4</entity2>
+	  </constraintBinary>
+	  <constraintBinary>
+	   <id>5</id>
+	   <entity1 type="A">3</entity1>
+	   <entity2 type="C">1</entity2>
+	  </constraintBinary>
+	  <constraintBinary>
+	   <id>7</id>
+	   <entity1 type="C">5</entity1>
+	   <entity2 type="A">2</entity2>
+	  </constraintBinary>
+	 </constraints>
+	</level>
+	<level id="76">
+	 <numberofhouses>5</numberofhouses>
+	 <hasanimals>true</hasanimals>
+	 <constraints>
+	   <constraintUnitary>
+	    <id>2</id>
+	    <house>5</house>
+	    <entity type="C">2</entity>
+	   </constraintUnitary>
+	  <constraintBinary>
+	   <id>5</id>
+	   <entity1 type="C">4</entity1>
+	   <entity2 type="A">2</entity2>
+	  </constraintBinary>
+	   <constraintBinary>
+	   <id>4</id>
+	   <entity1 type="A">5</entity1>
+	   <entity2 type="C">2</entity2>
+	  </constraintBinary>
+	   <constraintBinary>
+	   <id>6</id>
+	   <entity1 type="C">2</entity1>
+	   <entity2 type="A">3</entity2>
+	  </constraintBinary>
+	   <constraintBinary>
+	   <id>5</id>
+	   <entity1 type="A">2</entity1>
+	   <entity2 type="A">1</entity2>
+	  </constraintBinary>
+	   <constraintBinary>
+	   <id>4</id>
+	   <entity1 type="C">3</entity1>
+	   <entity2 type="C">2</entity2>
+	  </constraintBinary>
+	  <constraintBinary>
+	   <id>5</id>
+	   <entity1 type="C">1</entity1>
+	   <entity2 type="C">2</entity2>
+	  </constraintBinary>
+	  <constraintBinary>
+	   <id>6</id>
+	   <entity1 type="C">1</entity1>
+	   <entity2 type="A">5</entity2>
+	  </constraintBinary>
+	 </constraints>
+	</level>
+	<level id="77">
+	 <numberofhouses>5</numberofhouses>
+	 <hasanimals>true</hasanimals>
+	 <constraints>
+	   <constraintUnitary>
+	    <id>1</id>
+	    <house>3</house>
+	    <entity type="C">4</entity>
+	   </constraintUnitary>
+	  <constraintBinary>
+	   <id>3</id>
+	   <entity1 type="A">1</entity1>
+	   <entity2 type="A">2</entity2>
+	  </constraintBinary>
+	   <constraintBinary>
+	   <id>4</id>
+	   <entity1 type="C">2</entity1>
+	   <entity2 type="C">4</entity2>
+	  </constraintBinary>
+	   <constraintBinary>
+	   <id>4</id>
+	   <entity1 type="C">1</entity1>
+	   <entity2 type="C">4</entity2>
+	  </constraintBinary>
+	   <constraintBinary>
+	   <id>5</id>
+	   <entity1 type="A">3</entity1>
+	   <entity2 type="A">2</entity2>
+	  </constraintBinary>
+	   <constraintBinary>
+	   <id>5</id>
+	   <entity1 type="A">5</entity1>
+	   <entity2 type="C">5</entity2>
+	  </constraintBinary>
+	  <constraintBinary>
+	   <id>6</id>
+	   <entity1 type="C">4</entity1>
+	   <entity2 type="A">2</entity2>
+	  </constraintBinary>
+	  <constraintBinary>
+	   <id>6</id>
+	   <entity1 type="C">1</entity1>
+	   <entity2 type="A">3</entity2>
+	  </constraintBinary>
+	 </constraints>
+	</level>
+	<level id="78">
+	 <numberofhouses>5</numberofhouses>
+	 <hasanimals>true</hasanimals>
+	 <constraints>
+	   <constraintUnitary>
+	    <id>1</id>
+	    <house>5</house>
+	    <entity type="C">1</entity>
+	   </constraintUnitary>
+	  <constraintUnitary>
+	    <id>1</id>
+	    <house>1</house>
+	    <entity type="C">2</entity>
+	   </constraintUnitary>
+	   <constraintUnitary>
+	    <id>2</id>
+	    <house>1</house>
+	    <entity type="A">1</entity>
+	   </constraintUnitary>
+	   <constraintBinary>
+	   <id>5</id>
+	   <entity1 type="A">5</entity1>
+	   <entity2 type="C">4</entity2>
+	  </constraintBinary>
+	   <constraintBinary>
+	   <id>4</id>
+	   <entity1 type="A">3</entity1>
+	   <entity2 type="A">4</entity2>
+	  </constraintBinary>
+	   <constraintBinary>
+	   <id>4</id>
+	   <entity1 type="C">3</entity1>
+	   <entity2 type="C">4</entity2>
+	  </constraintBinary>
+	  <constraintBinary>
+	   <id>5</id>
+	   <entity1 type="A">1</entity1>
+	   <entity2 type="A">5</entity2>
+	  </constraintBinary>
+	  <constraintBinary>
+	   <id>3</id>
+	   <entity1 type="C">1</entity1>
+	   <entity2 type="A">4</entity2>
+	  </constraintBinary>
+	 </constraints>
+	</level>
+	<level id="79">
+	 <numberofhouses>5</numberofhouses>
+	 <hasanimals>true</hasanimals>
+	 <constraints>
+	   <constraintUnitary>
+	    <id>1</id>
+	    <house>4</house>
+	    <entity type="C">1</entity>
+	   </constraintUnitary>
+	   <constraintUnitary>
+	    <id>2</id>
+	    <house>5</house>
+	    <entity type="A">1</entity>
+	   </constraintUnitary>
+	   <constraintBinary>
+	   <id>4</id>
+	   <entity1 type="C">5</entity1>
+	   <entity2 type="A">1</entity2>
+	  </constraintBinary>
+	   <constraintBinary>
+	   <id>3</id>
+	   <entity1 type="A">2</entity1>
+	   <entity2 type="C">4</entity2>
+	  </constraintBinary>
+	   <constraintBinary>
+	   <id>4</id>
+	   <entity1 type="C">2</entity1>
+	   <entity2 type="A">1</entity2>
+	  </constraintBinary>
+	  <constraintBinary>
+	   <id>5</id>
+	   <entity1 type="A">5</entity1>
+	   <entity2 type="C">3</entity2>
+	  </constraintBinary>
+	  <constraintBinary>
+	   <id>5</id>
+	   <entity1 type="A">3</entity1>
+	   <entity2 type="C">5</entity2>
+	  </constraintBinary>
+	  <constraintBinary>
+	   <id>6</id>
+	   <entity1 type="C">3</entity1>
+	   <entity2 type="A">1</entity2>
+	  </constraintBinary>
+	 </constraints>
+	</level>
+	<level id="80">
+	 <numberofhouses>5</numberofhouses>
+	 <hasanimals>true</hasanimals>
+	 <constraints>
+	   <constraintUnitary>
+	    <id>2</id>
+	    <house>4</house>
+	    <entity type="C">1</entity>
+	   </constraintUnitary>
+	   <constraintUnitary>
+	    <id>2</id>
+	    <house>1</house>
+	    <entity type="A">4</entity>
+	   </constraintUnitary>
+	   <constraintUnitary>
+	    <id>1</id>
+	    <house>5</house>
+	    <entity type="A">5</entity>
+	   </constraintUnitary>
+	   <constraintBinary>
+	   <id>4</id>
+	   <entity1 type="C">2</entity1>
+	   <entity2 type="A">1</entity2>
+	  </constraintBinary>
+	   <constraintBinary>
+	   <id>5</id>
+	   <entity1 type="C">5</entity1>
+	   <entity2 type="A">2</entity2>
+	  </constraintBinary>
+	  <constraintBinary>
+	   <id>3</id>
+	   <entity1 type="C">2</entity1>
+	   <entity2 type="C">5</entity2>
+	  </constraintBinary>
+	  <constraintBinary>
+	   <id>6</id>
+	   <entity1 type="C">2</entity1>
+	   <entity2 type="A">4</entity2>
+	  </constraintBinary>
+	  <constraintBinary>
+	   <id>5</id>
+	   <entity1 type="C">3</entity1>
+	   <entity2 type="A">2</entity2>
+	  </constraintBinary>
+	 </constraints>
+	</level>
+	<level id="81">
+	 <numberofhouses>5</numberofhouses>
+	 <hasanimals>true</hasanimals>
+	 <constraints>
+	   <constraintBinary>
+	   <id>6</id>
+	   <entity1 type="C">2</entity1>
+	   <entity2 type="A">2</entity2>
+	  </constraintBinary>
+	   <constraintBinary>
+	   <id>4</id>
+	   <entity1 type="A">2</entity1>
+	   <entity2 type="A">3</entity2>
+	  </constraintBinary>
+	  <constraintBinary>
+	   <id>4</id>
+	   <entity1 type="C">4</entity1>
+	   <entity2 type="C">1</entity2>
+	  </constraintBinary>
+	  <constraintBinary>
+	   <id>6</id>
+	   <entity1 type="C">4</entity1>
+	   <entity2 type="A">3</entity2>
+	  </constraintBinary>
+	  <constraintBinary>
+	   <id>5</id>
+	   <entity1 type="A">1</entity1>
+	   <entity2 type="A">3</entity2>
+	  </constraintBinary>
+	  <constraintBinary>
+	   <id>5</id>
+	   <entity1 type="A">3</entity1>
+	   <entity2 type="C">3</entity2>
+	  </constraintBinary>
+	  <constraintBinary>
+	   <id>5</id>
+	   <entity1 type="C">4</entity1>
+	   <entity2 type="A">2</entity2>
+	  </constraintBinary>
+	  <constraintBinary>
+	   <id>5</id>
+	   <entity1 type="A">2</entity1>
+	   <entity2 type="A">4</entity2>
+	  </constraintBinary>
+	 </constraints>
+	</level>
+	<level id="82">
+	 <numberofhouses>5</numberofhouses>
+	 <hasanimals>true</hasanimals>
+	 <constraints>
+	   <constraintUnitary>
+	   <id>1</id>
+	   <house>5</house>
+	   <entity type="A">2</entity>
+	  </constraintUnitary>
+	   <constraintUnitary>
+	   <id>1</id>
+	   <house>4</house>
+	   <entity type="C">3</entity>
+	  </constraintUnitary>
+	  <constraintBinary>
+	   <id>5</id>
+	   <entity1 type="C">5</entity1>
+	   <entity2 type="A">2</entity2>
+	  </constraintBinary>
+	  <constraintBinary>
+	   <id>3</id>
+	   <entity1 type="A">2</entity1>
+	   <entity2 type="A">5</entity2>
+	  </constraintBinary>
+	  <constraintBinary>
+	   <id>4</id>
+	   <entity1 type="A">5</entity1>
+	   <entity2 type="C">4</entity2>
+	  </constraintBinary>
+	  <constraintBinary>
+	   <id>5</id>
+	   <entity1 type="A">3</entity1>
+	   <entity2 type="A">1</entity2>
+	  </constraintBinary>
+	  <constraintBinary>
+	   <id>4</id>
+	   <entity1 type="A">1</entity1>
+	   <entity2 type="A">5</entity2>
+	  </constraintBinary>
+	  <constraintBinary>
+	   <id>5</id>
+	   <entity1 type="C">2</entity1>
+	   <entity2 type="C">4</entity2>
+	  </constraintBinary>
+	 </constraints>
+	</level>
+	<level id="83">
+	 <numberofhouses>5</numberofhouses>
+	 <hasanimals>true</hasanimals>
+	 <constraints>
+	  <constraintBinary>
+	   <id>4</id>
+	   <entity1 type="C">4</entity1>
+	   <entity2 type="C">1</entity2>
+	  </constraintBinary>
+	  <constraintBinary>
+	   <id>3</id>
+	   <entity1 type="C">4</entity1>
+	   <entity2 type="A">4</entity2>
+	  </constraintBinary>
+	  <constraintBinary>
+	   <id>4</id>
+	   <entity1 type="A">1</entity1>
+	   <entity2 type="A">5</entity2>
+	  </constraintBinary>
+	  <constraintBinary>
+	   <id>3</id>
+	   <entity1 type="C">1</entity1>
+	   <entity2 type="A">5</entity2>
+	  </constraintBinary>
+	  <constraintBinary>
+	   <id>3</id>
+	   <entity1 type="A">5</entity1>
+	   <entity2 type="C">2</entity2>
+	  </constraintBinary>
+	  <constraintBinary>
+	   <id>5</id>
+	   <entity1 type="C">3</entity1>
+	   <entity2 type="C">5</entity2>
+	  </constraintBinary>
+	  <constraintBinary>
+	   <id>6</id>
+	   <entity1 type="C">3</entity1>
+	   <entity2 type="A">3</entity2>
+	  </constraintBinary>
+	  <constraintBinary>
+	   <id>5</id>
+	   <entity1 type="C">1</entity1>
+	   <entity2 type="C">5</entity2>
+	  </constraintBinary>
+	 </constraints>
+	</level>
+	<level id="84">
+	 <numberofhouses>5</numberofhouses>
+	 <hasanimals>true</hasanimals>
+	 <constraints>
+	  <constraintUnitary>
+	   <id>2</id>
+	   <house>4</house>
+	   <entity type="C">4</entity>
+	  </constraintUnitary>
+	  <constraintUnitary>
+	   <id>1</id>
+	   <house>2</house>
+	   <entity type="A">4</entity>
+	  </constraintUnitary>
+	  <constraintBinary>
+	   <id>5</id>
+	   <entity1 type="C">1</entity1>
+	   <entity2 type="C">5</entity2>
+	  </constraintBinary>
+	  <constraintBinary>
+	   <id>6</id>
+	   <entity1 type="C">3</entity1>
+	   <entity2 type="A">1</entity2>
+	  </constraintBinary>
+	  <constraintBinary>
+	   <id>5</id>
+	   <entity1 type="C">5</entity1>
+	   <entity2 type="C">4</entity2>
+	  </constraintBinary>
+	  <constraintBinary>
+	   <id>4</id>
+	   <entity1 type="A">4</entity1>
+	   <entity2 type="A">3</entity2>
+	  </constraintBinary>
+	  <constraintBinary>
+	   <id>4</id>
+	   <entity1 type="C">2</entity1>
+	   <entity2 type="C">3</entity2>
+	  </constraintBinary>
+	  <constraintBinary>
+	   <id>6</id>
+	   <entity1 type="C">1</entity1>
+	   <entity2 type="A">2</entity2>
+	  </constraintBinary>
+	 </constraints>
+	</level>
+</classic>

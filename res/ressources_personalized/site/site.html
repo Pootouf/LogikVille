@@ -1,0 +1,272 @@
+<!DOCTYPE html>
+    <head>
+        <title>LogikVille</title>
+        <meta charset="utf-8"/>
+    </head>
+
+    <body>
+        <img src="../sprites/gui/title.png" alt="LogikVille_logo" />
+        <div id="defis">
+            <h1>But du jeu</h1>
+            <p>Il s'agit de résoudre les 84 défis en développant vos capacités logiques.   </p>
+            <br>
+        </div>
+        <br>
+        <br>
+        <div id="preparation">
+            <h1>Préparation</h1>
+            <ul>
+                <li>
+                    <p>Si vous êtes débutant, nous vous recommandons de ne jouer qu'avec trois maisons.
+                    Une fois que vous aurez résolu quelques énigmes ne comportant que trois maisons,
+                    vous serez prêt à passer à celles qui en utilisent quatre. Les joueurs expérimentés, eux,
+                    joueront avec cinq maisons.</p>
+                </li>
+                <li>
+                    <p>Les niveaux sont triés par ordre croissant, de 1 à 84.</p>
+                </li>
+                <li>
+                    <p>En haut de chaque niveau figurent les personnages et les animaux utilisables.</p>
+                </li>
+                <li>
+                    <p>Le nombre adéquat de maisons se trouve sur le plateau.</p>
+                </li>
+                <li>
+                    <p>En fonction du nombre de maisons, vous aurez différents personnages et animaux disponibles.</p>
+                </li>
+            </ul>
+            <table border="1" width="100%">
+                <tr>
+                    <td>
+                        Nombre de maisons :
+                    </td>
+                    <td>
+                        Personnes :
+                    </td>
+                    <td>
+                        Animaux :
+                    </td>
+                </tr>
+                <tr>
+                    <td> 3 maisons </td>
+                    <td>
+                        <img src="../../../res/ressources_personalized/themes/classic/characters/macon.png" alt="macon" />
+                        <img src="../../../res/ressources_personalized/themes/classic/characters/pompier.png" alt="pompier" />
+                        <img src="../../../res/ressources_personalized/themes/classic/characters/plongeur.png" alt="plongeur" />
+                    </td>
+                    <td>
+                        <img src="../../../res/ressources_personalized/themes/classic/animals/chat.png" alt="chat" />
+                        <img src="../../../res/ressources_personalized/themes/classic/animals/tortue.png" alt="tortue" />
+                        <img src="../../../res/ressources_personalized/themes/classic/animals/oiseau.png" alt="oiseau" />
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        4 maisons
+                    </td>
+                    <td>
+                        <img src="../../../res/ressources_personalized/themes/classic/characters/macon.png" alt="macon" />
+                        <img src="../../../res/ressources_personalized/themes/classic/characters/pompier.png" alt="pompier" />
+                        <img src="../../../res/ressources_personalized/themes/classic/characters/plongeur.png" alt="plongeur" />
+                        <img src="../../../res/ressources_personalized/themes/classic/characters/cuisinier.png" alt="cuisinier" />
+                    </td>
+                    <td>
+                        <img src="../../../res/ressources_personalized/themes/classic/animals/chat.png" alt="chat" />
+                        <img src="../../../res/ressources_personalized/themes/classic/animals/tortue.png" alt="tortue" />
+                        <img src="../../../res/ressources_personalized/themes/classic/animals/oiseau.png" alt="oiseau" />
+                        <img src="../../../res/ressources_personalized/themes/classic/animals/chien.png" alt="chien" />
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        5 maisons
+                    </td>
+                    <td>
+                        <img src="../../../res/ressources_personalized/themes/classic/characters/macon.png" alt="macon" />
+                        <img src="../../../res/ressources_personalized/themes/classic/characters/pompier.png" alt="pompier" />
+                        <img src="../../../res/ressources_personalized/themes/classic/characters/plongeur.png" alt="plongeur" />
+                        <img src="../../../res/ressources_personalized/themes/classic/characters/cuisinier.png" alt="cuisinier" />
+                        <img src="../../../res/ressources_personalized/themes/classic/characters/pilote.png" alt="pilote" />
+                    </td>
+                    <td>
+                        <img src="../../../res/ressources_personalized/themes/classic/animals/chat.png" alt="chat" />
+                        <img src="../../../res/ressources_personalized/themes/classic/animals/tortue.png" alt="tortue" />
+                        <img src="../../../res/ressources_personalized/themes/classic/animals/oiseau.png" alt="oiseau" />
+                        <img src="../../../res/ressources_personalized/themes/classic/animals/chien.png" alt="chien" />
+                        <img src="../../../res/ressources_personalized/themes/classic/animals/lapin.png" alt="lapin" />
+                    </td>
+                </tr>
+            </table>
+        </div>
+        <div id="commencons">
+            <h1>Commençons</h1>
+            <p>
+                Quelle que soit la carte choisie, vous aurez toujours à résoudre la même énigme : qui vit dans chaque maison ?
+                <br> Les indices figurant sur la carte seront chaque fois différents. Ils sont présentés selon un système de symbole  que vous n'aurez aucun mal à maîtriser.
+                <br>
+                <br>
+            </p>
+        </div>
+        <div id="regles">
+            <h1>Comment jouer ?</h1>
+            <p>
+                <ul>
+                    <li><I><B>Choisissez</B></I> un niveau de défi.</li>
+                    <br>
+                    <li><I><B>Regardez</B></I> bien tous les indices de la carte avant de commencer</li>
+                    <br>
+                    <li><I><B>Décidez</B></I> quels indices sont les plus importants et procédez par ordre pour résoudre l'énigme.</li>
+                    <ul>
+                        <li>Commencez par les indices les plus spécifiques, ceux qui indiquent le placement d'une figurine de la façon la plus exacte (par exemple, une contrainte du type "La tortue vit dans la maison à droite").</li>
+                        <li>Trouvez les personnages pour lesquels vous aurez le plus d'indices : ils seront les plus faciles à placer (par exemple, si on a 2 indices concernant le maçon, mieux vaut commencer par lui).</li>
+                    </ul>
+                    <br>
+                    <li><I><B>N'oubliez aucun des indices</B></I> : chacun est important et vous aurez besoin de tous pour obtenir la solution correcte.</li>
+                    <br>
+                    <li>En tirant parti des indices et de vos capacités de raisonnement logique, <i><b>placez les personnages dans les bonnes maisons.</b></i></li>
+                </ul>
+                <br>
+            </p>
+        </div>
+        <div id="contraintes">
+            <h1>Le jeu utilise 7 symboles différents</h1>
+            <p><b>Contrainte numéro :</b></p>
+            <ol>
+                <p>Concernant les deux premières contraintes, une maison normale est représentée comme ceci : <img src="../sprites/constraint/constraint_default.png" alt="constraint_defuault" id="const1"/>
+                    De plus, les maisons sont représentées de gauche à droite et de haut en bas. Donc si tu cherches la 5ème maison, c'est la dernière en bas !</p>
+                <li>
+                    <img src="../sprites/constraint/constraint1.png" alt="constraint1" id="const1"/> La figurine vit dans la maison indiquée (celle dont le contour est en gras).
+                </li>
+                <li>
+                    <img src="../sprites/constraint/constraint2.png" alt="constraint2" id="const1"/> La figurine ne vit pas dans la maison indiquée (celle qui est marquée d'une croix).
+                </li>
+                <li>
+                    <img src="../sprites/constraint/constraint3.png" alt="constraint3" id="const"/> Les figurines sont voisines.
+                </li>
+                <li>
+                    <img src="../sprites/constraint/constraint4.png" alt="constraint4" id="const"/> Les figurines ne sont pas voisines.
+                </li>
+                <li>
+                    La figurine A est placée de ce côté <img src="../sprites/constraint/constraint5.png" alt="constraint5" id="const"/>par rapport à la figurine B. <br>
+                    <B>Remarquez bien que cela ne veut pas forcément dire que les figurines sont voisines</B> (ce symbole indique le placement relatif des personnages, encourageant les enfants à différencier la gauche et la droite).
+                </li>
+                <li>
+                    <img src="../sprites/constraint/constraint6.png" alt="constraint6" id="const"/> Les figurines vivent dans la même maison.
+                </li>
+                <li>
+                    <img src="../sprites/constraint/constraint7.png" alt="constraint7" id="const"/> Les figurines ne vivent pas dans la même maison.
+                </li>
+            </ol>
+            <br>
+        </div>
+        <div id="Note">
+            <p>
+                <b>Note :</b> <i>dans les défis qui n'utilisent que des personnes, chacune d'entre elles doit être placée dans une maison séparée.
+                    <br>On ne peut pas mettre deux personnes dans la même maison. Dans les défis associant les personnes et les animaux, une personne et un animal peuvent être placés dans la même maison.
+                    <br> Toutefois, on ne peut pas placer deux personnes ou deux animaux dans la même maison.</i>
+                </i>
+                <br>
+                <br>
+                Êtes-vous certain d'avoir correctement résolu le défi ?<br>
+                Passez les indices en revue.<br>
+                Si chacune des conditions est remplie, le défi est résolu !<br>
+                Chaque défi n'a qu'une solution, et une seule.<br>
+                Cliquez sur le bouton pour vérifier, le jeu vous indiquera la réponse.<br>
+                Quand l'énigme est résolue, passez au défi suivant !<br>
+                <br>
+                Les premiers niveaux vous familiariseront avec la logique requise pour résoudre toutes les énigmes.<br>
+                Nous vous recommandons donc de ne pas les passer !<br>
+                Respectez autant que possible l'ordre des niveaux numérotés.<br>
+                Si vous sautez certaines énigmes, vous aurez peut-être des problèmes pour résoudre des défis plus compliqués par la suite.<br>
+                <br>
+            </p>
+        </div>
+        <div id ="editeur">
+       	 <h1>Editeur de cartes</h1>
+        	<p>
+        		Tu as réussi à résoudre les 84 niveaux par toi même <br/>et tu veux plus de challenge ? <br/>
+        		L'éditeur de niveaux est fait pour toi ! Crée à ton tour les niveaux que tu souhaites en choisissant<br/>
+        	</p>
+        		<ul>
+                    <li>Le nom du niveau</li>
+                    <li>L'image le représentant</li>
+        			<li>Le nombre de maisons</li>
+        			<li>S'il y a des animaux ou non</li>
+        			<li>Toutes les contraintes que tu veux</li>
+        		</ul>	
+        	<p>
+        		Mais attention, à la fin ton niveau ne doit présenter qu'<strong>une</strong> seule solution !<br/>
+        		Pour t'aider, l'application calcule automatiquement le nombre de solutions et te les affiche, c'est pas génial ?<br/>
+        	</p>
+        	<br/>
+        </div>
+        
+        <div id="options">
+     	   <h1>Options du jeu</h1>
+        	<p>
+        		Marre de toujours jouer avec les mêmes personnages ? <br/> 
+        		Tu te demandes pourquoi un oiseau doit dormir dans une maison et tu préférerais avoir un poisson ? <br/>
+        		Le menu des options est fait pour toi !
+        	</p>
+        	<p>
+        		C'est un endroit formidable où tu pourras régler la taille de la fenêtre<br/> 
+        		mais aussi et surtout personnaliser les entités. Tu pourras y 
+        	</p>
+        	<ul>
+        		<li>créer puis sauvegarder tes propres thèmes en remplaçant les images des entités</li>
+        		<li>charger un thème sauvegardé ou le thème classique</li>
+        	</ul>
+        	<p>
+        		En plus, tu peux y mettre les images que tu veux ! Les gif sont autorisés, tes personnages et animaux peuvent s'animer en jeu ! <br>
+                Alors viens donc essayer cet outil et laisse libre cours à ton imagination !
+        	</p>
+        	<br/>
+        </div>
+        
+        
+        <div id="pub">
+            <p>Et si tu as aimé nos aventures sur ordinateur, n'hésite pas à te procurer la boîte de jeu pour encore plus t'amuser en famille !</p>
+            <img src="logikville.jpg" alt="boite de jeu" />
+            <p>Pssst ! C'est disponible à l'achat sur internet <a href="https://www.amazon.fr/Asmodee-CLUB01-Jeu-enfants-Logikville/dp/B004KDQWNC">ici</a></p>
+        </div>
+        <style>
+            html {
+                background-image: url(../sprites/gui/background-2.png);
+                background-attachment: fixed;
+                background-size: 100%;
+                text-align: center;
+            }
+            img {
+                width: 33%;
+            }
+            p, li {
+                font-family: 'Rockwell', Courier, monospace;
+                
+            }
+            #defis {
+                background-color: #F49968  ;
+                width: 60%;
+                margin-left: 20%;
+                position:relative;
+            }
+            #const {
+                width : 5%;
+            }
+            #const1 {
+                width : 3%;
+            }
+            #preparation, #commencons, #regles, #contraintes, #Note, #pub, #editeur, #options {
+                background-color: #F49968 ;
+                width: 60%;
+                margin-left: 20%;
+                position:relative;
+            }
+            h1 {
+                background-color: #F95700 ;
+            }
+        </style>
+    </body>
+    <footer>
+        <img src="baspage.png" alt="footer" />
+    </footer>
+</html>

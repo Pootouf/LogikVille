@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE classic SYSTEM "save.dtd" >
+<classic>		
+
+
+	<level id="1" image="res/ressources_personalized/level/abeille.gif" name="Test">
+		<numberofhouses>4</numberofhouses>
+		<hasanimals>true</hasanimals>
+		<constraints>
+			<constraintUnitary>
+			<id>1</id>
+			<house>1</house>
+			<entity type="C">1</entity>
+			</constraintUnitary>
+			<constraintUnitary>
+			<id>1</id>
+			<house>3</house>
+			<entity type="C">2</entity>
+			</constraintUnitary>
+		<constraintBinary>
+			<id>6</id>
+			<entity1 type="C">2</entity1>
+			<entity2 type="A">1</entity2>
+		</constraintBinary>
+		<constraintBinary>
+			<id>6</id>
+			<entity1 type="C">4</entity1>
+			<entity2 type="A">3</entity2>
+		</constraintBinary>
+		<constraintBinary>
+			<id>3</id>
+			<entity1 type="C">1</entity1>
+			<entity2 type="C">3</entity2>
+		</constraintBinary>
+		<constraintBinary>
+			<id>4</id>
+			<entity1 type="A">2</entity1>
+			<entity2 type="A">1</entity2>
+		</constraintBinary>
+		</constraints>
+	</level>
+</classic>
